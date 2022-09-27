@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/borne", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/zarge-cpl-berglaerche-holznachb-61-cm-x-1985-cm-x-14-cm-anschlag-r-borne-2195634-1.jpg":"\u002Fassets\u002Fimages\u002Fzarge-cpl-berglaerche-holznachb-61-cm-x-1985-cm-x-14-cm-anschlag-r-borne-2195634-1.webp"}}],fetch:{},mutations:void 0});

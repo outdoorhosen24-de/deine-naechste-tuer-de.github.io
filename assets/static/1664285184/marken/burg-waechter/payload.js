@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/burg-waechter", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/burg-waechter-tuerstopper-doorman-2195-farblich-sortiert-burg-waechter-8668865-1.jpg":"\u002Fassets\u002Fimages\u002Fburg-waechter-tuerstopper-doorman-2195-farblich-sortiert-burg-waechter-8668865-1.webp"}}],fetch:{},mutations:void 0});
