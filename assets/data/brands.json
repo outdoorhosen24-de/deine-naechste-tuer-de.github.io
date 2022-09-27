@@ -1,17 +1,59 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "wagner design yourself",
+        "name": "Wagner design yourself",
+        "slug": "wagner-design-yourself",
+        "productCategory": "Wagner design yourself",
+        "localThumb": "/assets/images/hersteller/wagner-design-yourself.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "borne",
+        "name": "Borne",
+        "slug": "borne",
+        "productCategory": "Borne",
+        "localThumb": "/assets/images/hersteller/borne.webp"
+    },
+    {
+        "key": "getadoor",
+        "name": "GetaDoor",
+        "slug": "getadoor",
+        "productCategory": "GetaDoor",
+        "localThumb": "/assets/images/hersteller/getadoor.webp"
+    },
+    {
+        "key": "hörmann",
+        "name": "Hörmann",
+        "slug": "hoermann",
+        "productCategory": "Hörmann",
+        "localThumb": "/assets/images/hersteller/hoermann.webp"
+    },
+    {
+        "key": "radex",
+        "name": "Radex",
+        "slug": "radex",
+        "productCategory": "Radex",
+        "localThumb": "/assets/images/hersteller/radex.webp"
+    },
+    {
+        "key": "panto",
+        "name": "PANTO",
+        "slug": "panto",
+        "productCategory": "PANTO",
+        "localThumb": "/assets/images/hersteller/panto.webp"
+    },
+    {
+        "key": "classen",
+        "name": "Classen",
+        "slug": "classen",
+        "productCategory": "Classen",
+        "localThumb": "/assets/images/hersteller/classen.webp"
+    },
+    {
+        "key": "grosfillex",
+        "name": "Grosfillex",
+        "slug": "grosfillex",
+        "productCategory": "Grosfillex",
+        "localThumb": "/assets/images/hersteller/grosfillex.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +63,38 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "burg wächter",
+        "name": "Burg Wächter",
+        "slug": "burg-waechter",
+        "productCategory": "Burg Wächter",
+        "localThumb": "/assets/images/hersteller/burg-waechter.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "splendoor thermospace",
+        "name": "Splendoor Thermospace",
+        "slug": "splendoor-thermospace",
+        "productCategory": "Splendoor Thermospace",
+        "localThumb": "/assets/images/hersteller/splendoor-thermospace.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "splendoor moderno",
+        "name": "Splendoor Moderno",
+        "slug": "splendoor-moderno",
+        "productCategory": "Splendoor Moderno",
+        "localThumb": "/assets/images/hersteller/splendoor-moderno.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "ecostar",
+        "name": "EcoStar",
+        "slug": "ecostar",
+        "productCategory": "EcoStar",
+        "localThumb": "/assets/images/hersteller/ecostar.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "splendoor",
+        "name": "Splendoor",
+        "slug": "splendoor",
+        "productCategory": "Splendoor",
+        "localThumb": "/assets/images/hersteller/splendoor.webp"
     }
 ]
