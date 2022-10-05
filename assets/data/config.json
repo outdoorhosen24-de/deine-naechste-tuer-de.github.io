@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "deine-naechste-tuer.de",
+    "hostname": "https://www.deine-naechste-tuer.de/",
+    "email": "deine-naechste-tuer.desurrealnetworks.io",
+    "organization": "deine-naechste-tuer.de",
+    "logoText": "Deine-naechste-tuer.de",
+    "title": "T\u00fcren",
+    "subline": "Der Online Shop f\u00fcr T\u00fcren",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9838442",
+        "8453268",
+        "3731122",
+        "6768030",
+        "8319212",
+        "9838061"
+    ],
+    "winnerProducts": [
+        "6767719",
+        "8318974",
+        "6768139"
+    ],
+    "featuredCategories": [
+        "Faltt\u00fcren",
+        "T\u00fcrstopper",
+        "Haust\u00fcren",
+        "Zimmert\u00fcren & Zargen",
+        "Haust\u00fcren",
+        "Glast\u00fcren & Schiebet\u00fcren"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "T\u00fcren",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die T\u00fcren sind ein wesentlicher Bestandteil eines Geb\u00e4udes und sollten daher sorgf\u00e4ltig ausgew\u00e4hlt werden. Die Auswahl einer T\u00fcr ist nicht immer einfach, da es viele verschiedene Arten von T\u00fcren gibt. Bei der Auswahl einer T\u00fcr sollten Sie jedoch einige Dinge beachten. Zun\u00e4chst einmal sollten Sie sich \u00fcberlegen, welchen Zweck die T\u00fcr erf\u00fcllen soll. Will man damit nur den Zugang zu einem Raum regeln oder soll die T\u00fcr auch einen bestimmten Zweck erf\u00fcllen, wie zum Beispiel einen Schallschutz oder e",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "T\u00fcrenladen: Deine T\u00fcr zum Gl\u00fcck!",
+            "metaDescription": "T\u00fcren f\u00fcr jeden Geschmack! Wir f\u00fchren T\u00fcren in verschiedenen Stilen, Farben und Gr\u00f6\u00dfen. Finden Sie die perfekte T\u00fcr f\u00fcr Ihr Zuhause!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "T\u00fcren: Ein kurzer Text \u00fcber die verschiedenen Arten von T\u00fcren.",
+                    "text": "T\u00fcren sind ein wesentlicher Bestandteil unseres Alltags. Wir benutzen sie, um unsere H\u00e4user, Wohnungen und Autos zu betreten und zu verlassen. T\u00fcren k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Sie k\u00f6nnen auch unterschiedliche Formen und Gr\u00f6\u00dfen haben.\n\nT\u00fcren dienen uns als Schutz vor dem Wetter und vor Einbrechern. Sie halten uns warm, wenn es drau\u00dfen kalt ist, und k\u00fchl, wenn es drau\u00dfen hei\u00df ist. T\u00fcren k\u00f6nnen auch ein dekoratives Element in unseren H\u00e4usern sein. Wir k\u00f6nnen sie mit verschiedenen Designs und Farben gestalten.\n\nT\u00fcren sind nicht nur praktisch, sondern k\u00f6nnen auch ein Symbol f\u00fcr etwas sein. Die T\u00fcr zu unserem Haus kann ein Symbol f\u00fcr unsere Privatsph\u00e4re sein. Wir k\u00f6nnen sie \u00f6ffnen, wenn wir Besuch bekommen, und schlie\u00dfen, wenn wir alleine sein wollen. Die T\u00fcr zu einem Raum in einem Geb\u00e4ude kann auch ein Symbol f\u00fcr den Zugang zu diesem Raum sein. Wenn die T\u00fcr geschlossen ist, bedeutet dies, dass der Raum nicht betreten werden kann.\n\nT\u00fcren k\u00f6nnen uns also vor dem Wetter, Einbrechern und anderen Gefahren sch\u00fctzen. Sie k\u00f6nnen aber auch ein Symbol f\u00fcr unsere Privatsph\u00e4re oder den Zugang zu einem Raum sein."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "T\u00fcren-Shop: T\u00fcren f\u00fcr jeden Bedarf.",
+            "metaDescription": "T\u00fcren-Shop: Hier finden Sie eine gro\u00dfe Auswahl an T\u00fcren f\u00fcr Ihr Zuhause. Wir bieten Ihnen T\u00fcren in verschiedenen Stilen und Ausf\u00fchrungen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "T\u00fcren manufacturer",
+            "metaDescription": "T\u00fcren manufacturer. High quality doors for your home. Made in Germany.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "T\u00fcren: $PRODUKT",
+        "defaultMetaDescription": "T\u00fcren von $HERSTELLER in der Kategorie $KATEGORIE. Finden Sie Ihre Traumt\u00fcr unter unseren $PRODUKT.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "T\u00fcren: $KATEGORIE f\u00fcr jeden Geschmack",
+        "defaultMetaDescription": "T\u00fcren in verschiedenen Ausf\u00fchrungen und Designs. Finden Sie die passende T\u00fcr f\u00fcr Ihr Zuhause in unserer Kategorie $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "T\u00fcren von $HERSTELLER - hochwertige Innent\u00fcren und Au\u00dfent\u00fcren f\u00fcr Ihr Zuhause. Individuell gestalten und online bestellen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "T\u00fcren",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "T\u00fcren Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "T\u00fcren Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
