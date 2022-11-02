@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "deine-naechste-tuer.de",
     "hostname": "https://www.deine-naechste-tuer.de/",
     "email": "deine-naechste-tuer.desurrealnetworks.io",
     "organization": "deine-naechste-tuer.de",
     "logoText": "Deine-naechste-tuer.de",
-    "title": "T\u00fcren",
-    "subline": "Der Online Shop f\u00fcr T\u00fcren",
+    "title": "Türen",
+    "subline": "Der Online Shop für Türen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "6768139"
     ],
     "featuredCategories": [
-        "Faltt\u00fcren",
-        "T\u00fcrstopper",
-        "Haust\u00fcren",
-        "Zimmert\u00fcren & Zargen",
-        "Haust\u00fcren",
-        "Glast\u00fcren & Schiebet\u00fcren"
+        "Falttüren",
+        "Türstopper",
+        "Haustüren",
+        "Zimmertüren & Zargen",
+        "Haustüren",
+        "Glastüren & Schiebetüren"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "T\u00fcren",
-        "featureText": "Die T\u00fcren sind ein wesentlicher Bestandteil eines Geb\u00e4udes und sollten daher sorgf\u00e4ltig ausgew\u00e4hlt werden. Die Auswahl einer T\u00fcr ist nicht immer einfach, da es viele verschiedene Arten von T\u00fcren gibt. Bei der Auswahl einer T\u00fcr sollten Sie jedoch einige Dinge beachten. Zun\u00e4chst einmal sollten Sie sich \u00fcberlegen, welchen Zweck die T\u00fcr erf\u00fcllen soll. Will man damit nur den Zugang zu einem Raum regeln oder soll die T\u00fcr auch einen bestimmten Zweck erf\u00fcllen, wie zum Beispiel einen Schallschutz oder e",
+        "mainKeyword": "Türen",
+        "featureText": "Die Türen sind ein wesentlicher Bestandteil eines Gebäudes und sollten daher sorgfältig ausgewählt werden. Die Auswahl einer Tür ist nicht immer einfach, da es viele verschiedene Arten von Türen gibt. Bei der Auswahl einer Tür sollten Sie jedoch einige Dinge beachten. Zunächst einmal sollten Sie sich überlegen, welchen Zweck die Tür erfüllen soll. Will man damit nur den Zugang zu einem Raum regeln oder soll die Tür auch einen bestimmten Zweck erfüllen, wie zum Beispiel einen Schallschutz oder e",
         "index": {
-            "title": "T\u00fcrenladen: Deine T\u00fcr zum Gl\u00fcck!",
-            "metaDescription": "T\u00fcren f\u00fcr jeden Geschmack! Wir f\u00fchren T\u00fcren in verschiedenen Stilen, Farben und Gr\u00f6\u00dfen. Finden Sie die perfekte T\u00fcr f\u00fcr Ihr Zuhause!",
+            "title": "Türenladen: Deine Tür zum Glück!",
+            "metaDescription": "Türen für jeden Geschmack! Wir führen Türen in verschiedenen Stilen, Farben und Größen. Finden Sie die perfekte Tür für Ihr Zuhause!",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "T\u00fcren: Ein kurzer Text \u00fcber die verschiedenen Arten von T\u00fcren.",
-                    "text": "T\u00fcren sind ein wesentlicher Bestandteil unseres Alltags. Wir benutzen sie, um unsere H\u00e4user, Wohnungen und Autos zu betreten und zu verlassen. T\u00fcren k\u00f6nnen aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Sie k\u00f6nnen auch unterschiedliche Formen und Gr\u00f6\u00dfen haben.\n\nT\u00fcren dienen uns als Schutz vor dem Wetter und vor Einbrechern. Sie halten uns warm, wenn es drau\u00dfen kalt ist, und k\u00fchl, wenn es drau\u00dfen hei\u00df ist. T\u00fcren k\u00f6nnen auch ein dekoratives Element in unseren H\u00e4usern sein. Wir k\u00f6nnen sie mit verschiedenen Designs und Farben gestalten.\n\nT\u00fcren sind nicht nur praktisch, sondern k\u00f6nnen auch ein Symbol f\u00fcr etwas sein. Die T\u00fcr zu unserem Haus kann ein Symbol f\u00fcr unsere Privatsph\u00e4re sein. Wir k\u00f6nnen sie \u00f6ffnen, wenn wir Besuch bekommen, und schlie\u00dfen, wenn wir alleine sein wollen. Die T\u00fcr zu einem Raum in einem Geb\u00e4ude kann auch ein Symbol f\u00fcr den Zugang zu diesem Raum sein. Wenn die T\u00fcr geschlossen ist, bedeutet dies, dass der Raum nicht betreten werden kann.\n\nT\u00fcren k\u00f6nnen uns also vor dem Wetter, Einbrechern und anderen Gefahren sch\u00fctzen. Sie k\u00f6nnen aber auch ein Symbol f\u00fcr unsere Privatsph\u00e4re oder den Zugang zu einem Raum sein."
+                    "title": "Türen: Ein kurzer Text über die verschiedenen Arten von Türen.",
+                    "text": "Türen sind ein wesentlicher Bestandteil unseres Alltags. Wir benutzen sie, um unsere Häuser, Wohnungen und Autos zu betreten und zu verlassen. Türen können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Sie können auch unterschiedliche Formen und Größen haben.\n\nTüren dienen uns als Schutz vor dem Wetter und vor Einbrechern. Sie halten uns warm, wenn es draußen kalt ist, und kühl, wenn es draußen heiß ist. Türen können auch ein dekoratives Element in unseren Häusern sein. Wir können sie mit verschiedenen Designs und Farben gestalten.\n\nTüren sind nicht nur praktisch, sondern können auch ein Symbol für etwas sein. Die Tür zu unserem Haus kann ein Symbol für unsere Privatsphäre sein. Wir können sie öffnen, wenn wir Besuch bekommen, und schließen, wenn wir alleine sein wollen. Die Tür zu einem Raum in einem Gebäude kann auch ein Symbol für den Zugang zu diesem Raum sein. Wenn die Tür geschlossen ist, bedeutet dies, dass der Raum nicht betreten werden kann.\n\nTüren können uns also vor dem Wetter, Einbrechern und anderen Gefahren schützen. Sie können aber auch ein Symbol für unsere Privatsphäre oder den Zugang zu einem Raum sein."
                 }
             ]
         },
         "shop": {
-            "title": "T\u00fcren-Shop: T\u00fcren f\u00fcr jeden Bedarf.",
-            "metaDescription": "T\u00fcren-Shop: Hier finden Sie eine gro\u00dfe Auswahl an T\u00fcren f\u00fcr Ihr Zuhause. Wir bieten Ihnen T\u00fcren in verschiedenen Stilen und Ausf\u00fchrungen.",
+            "title": "Türen-Shop: Türen für jeden Bedarf.",
+            "metaDescription": "Türen-Shop: Hier finden Sie eine große Auswahl an Türen für Ihr Zuhause. Wir bieten Ihnen Türen in verschiedenen Stilen und Ausführungen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "T\u00fcren manufacturer",
-            "metaDescription": "T\u00fcren manufacturer. High quality doors for your home. Made in Germany.",
+            "title": "Türen manufacturer",
+            "metaDescription": "Türen manufacturer. High quality doors for your home. Made in Germany.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "T\u00fcren: $PRODUKT",
-        "defaultMetaDescription": "T\u00fcren von $HERSTELLER in der Kategorie $KATEGORIE. Finden Sie Ihre Traumt\u00fcr unter unseren $PRODUKT.",
+        "defaultTitle": "Türen: $PRODUKT",
+        "defaultMetaDescription": "Türen von $HERSTELLER in der Kategorie $KATEGORIE. Finden Sie Ihre Traumtür unter unseren $PRODUKT.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "T\u00fcren: $KATEGORIE f\u00fcr jeden Geschmack",
-        "defaultMetaDescription": "T\u00fcren in verschiedenen Ausf\u00fchrungen und Designs. Finden Sie die passende T\u00fcr f\u00fcr Ihr Zuhause in unserer Kategorie $KATEGORIE.",
+        "defaultTitle": "Türen: $KATEGORIE für jeden Geschmack",
+        "defaultMetaDescription": "Türen in verschiedenen Ausführungen und Designs. Finden Sie die passende Tür für Ihr Zuhause in unserer Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "T\u00fcren von $HERSTELLER - hochwertige Innent\u00fcren und Au\u00dfent\u00fcren f\u00fcr Ihr Zuhause. Individuell gestalten und online bestellen.",
+        "defaultMetaDescription": "Türen von $HERSTELLER - hochwertige Innentüren und Außentüren für Ihr Zuhause. Individuell gestalten und online bestellen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "T\u00fcren",
+            "linkTitle": "Türen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "T\u00fcren Shop",
+            "linkTitle": "Türen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "T\u00fcren Marken",
+            "linkTitle": "Türen Marken",
             "publish": true
         },
         {
