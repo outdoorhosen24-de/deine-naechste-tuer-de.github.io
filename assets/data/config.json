@@ -51,12 +51,15 @@
             "title": "Türenladen: Deine Tür zum Glück!",
             "metaDescription": "Türen für jeden Geschmack! Wir führen Türen in verschiedenen Stilen, Farben und Größen. Finden Sie die perfekte Tür für Ihr Zuhause!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Türen: Ein kurzer Text über die verschiedenen Arten von Türen.",
-                    "text": "Türen sind ein wesentlicher Bestandteil unseres Alltags. Wir benutzen sie, um unsere Häuser, Wohnungen und Autos zu betreten und zu verlassen. Türen können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Sie können auch unterschiedliche Formen und Größen haben.\n\nTüren dienen uns als Schutz vor dem Wetter und vor Einbrechern. Sie halten uns warm, wenn es draußen kalt ist, und kühl, wenn es draußen heiß ist. Türen können auch ein dekoratives Element in unseren Häusern sein. Wir können sie mit verschiedenen Designs und Farben gestalten.\n\nTüren sind nicht nur praktisch, sondern können auch ein Symbol für etwas sein. Die Tür zu unserem Haus kann ein Symbol für unsere Privatsphäre sein. Wir können sie öffnen, wenn wir Besuch bekommen, und schließen, wenn wir alleine sein wollen. Die Tür zu einem Raum in einem Gebäude kann auch ein Symbol für den Zugang zu diesem Raum sein. Wenn die Tür geschlossen ist, bedeutet dies, dass der Raum nicht betreten werden kann.\n\nTüren können uns also vor dem Wetter, Einbrechern und anderen Gefahren schützen. Sie können aber auch ein Symbol für unsere Privatsphäre oder den Zugang zu einem Raum sein."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Türen: Ein kurzer Text über die verschiedenen Arten von Türen.",
+                        "text": "Türen sind ein wesentlicher Bestandteil unseres Alltags. Wir benutzen sie, um unsere Häuser, Wohnungen und Autos zu betreten und zu verlassen. Türen können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Sie können auch unterschiedliche Formen und Größen haben.\n\nTüren dienen uns als Schutz vor dem Wetter und vor Einbrechern. Sie halten uns warm, wenn es draußen kalt ist, und kühl, wenn es draußen heiß ist. Türen können auch ein dekoratives Element in unseren Häusern sein. Wir können sie mit verschiedenen Designs und Farben gestalten.\n\nTüren sind nicht nur praktisch, sondern können auch ein Symbol für etwas sein. Die Tür zu unserem Haus kann ein Symbol für unsere Privatsphäre sein. Wir können sie öffnen, wenn wir Besuch bekommen, und schließen, wenn wir alleine sein wollen. Die Tür zu einem Raum in einem Gebäude kann auch ein Symbol für den Zugang zu diesem Raum sein. Wenn die Tür geschlossen ist, bedeutet dies, dass der Raum nicht betreten werden kann.\n\nTüren können uns also vor dem Wetter, Einbrechern und anderen Gefahren schützen. Sie können aber auch ein Symbol für unsere Privatsphäre oder den Zugang zu einem Raum sein."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Türen-Shop: Türen für jeden Bedarf.",
