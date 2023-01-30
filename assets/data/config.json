@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "deine-naechste-tuer.de",
     "hostname": "https://www.deine-naechste-tuer.de/",
     "email": "deine-naechste-tuer.de@surrealnetworks.io",
     "organization": "deine-naechste-tuer.de",
     "logoText": "Deine-naechste-tuer.de",
-    "title": "Türen",
-    "subline": "Der Online Shop für Türen",
+    "title": "Türen Shop",
+    "subline": "Der Online Shop für deine nächste Tür",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Türen",
-        "featureText": "Die Türen sind ein wesentlicher Bestandteil eines Gebäudes und sollten daher sorgfältig ausgewählt werden. Die Auswahl einer Tür ist nicht immer einfach, da es viele verschiedene Arten von Türen gibt. Bei der Auswahl einer Tür sollten Sie jedoch einige Dinge beachten. Zunächst einmal sollten Sie sich überlegen, welchen Zweck die Tür erfüllen soll. Will man damit nur den Zugang zu einem Raum regeln oder soll die Tür auch einen bestimmten Zweck erfüllen, wie zum Beispiel einen Schallschutz oder e",
+        "featureText": "Herzlich Willkommen! Wir beschäftigen uns mit dem Ort wo der Maurer das Loch gelassen hat, denn das Loch muss geschlossen werden. Wir betrachten Türen natürlich nicht nur als Mittel zum Zweck, sondern haben uns mit ganzheitlichem Blick vielen Arten der Tür zugewandt. Zum Beispiel haben wir in unserem Sortiment Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneinganstüren, Stahltüren und sogar Türstopper anzubieten. Wir wollen sie gemeinsam mit dir finden - Die Tür zu deinem Glück!",
         "index": {
-            "title": "Türenladen: Deine Tür zum Glück!",
-            "metaDescription": "Türen für jeden Geschmack! Wir führen Türen in verschiedenen Stilen, Farben und Größen. Finden Sie die perfekte Tür für Ihr Zuhause!",
+            "title": "Günstig Türen kaufen | Deine nächste Tür",
+            "metaDescription": "Große Auswahl zum günstigen Preis - Kaufe jetzt bei uns Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Türen-Shop: Türen für jeden Bedarf.",
-            "metaDescription": "Türen-Shop: Hier finden Sie eine große Auswahl an Türen für Ihr Zuhause. Wir bieten Ihnen Türen in verschiedenen Stilen und Ausführungen.",
+            "title": "Günstige Türen zur großen Auswahl | Türen Shop",
+            "metaDescription": "Entdecken Sie unser Sortiment an Zimmertüren & Zargen, Stahltüren, Glas- & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Türen manufacturer",
-            "metaDescription": "Türen manufacturer. High quality doors for your home. Made in Germany.",
+            "title": "Hochwertige Türen von Top Marken | Türen Shop",
+            "metaDescription": "Unsere Türen sind von den Top Marken wie Borne, GetaDoor, Hörmann, Radex, PANTO, Classen, Grosfillex, Burg Wächter, EcoStar oder Splendoor.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Türen: $PRODUKT",
-        "defaultMetaDescription": "Türen von $HERSTELLER in der Kategorie $KATEGORIE. Finden Sie Ihre Traumtür unter unseren $PRODUKT.",
+        "defaultTitle": "$PRODUKT | Die Tür zum Glück",
+        "defaultMetaDescription": "Die Tür die zu dir passt: Das Beste der Kategorie $KATEGORIE - die Tür $PRODUKT von unserer Top Marke $HERSTELLER zum günstigen Preis. ",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Türen: $KATEGORIE für jeden Geschmack",
-        "defaultMetaDescription": "Türen in verschiedenen Ausführungen und Designs. Finden Sie die passende Tür für Ihr Zuhause in unserer Kategorie $KATEGORIE.",
+        "defaultTitle": "$KATEGORIE für jeden Geschmack",
+        "defaultMetaDescription": "Große Auswahl zum günstigen Preis - Durch unsere Auswahl verschiedenster $KATEGORIE finden wir mit dir gemeinsam die Tür und Zubehör für dein Zuhause.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Türen von $HERSTELLER - hochwertige Innentüren und Außentüren für Ihr Zuhause. Individuell gestalten und online bestellen.",
+        "defaultTitle": "$HERSTELLER | Türen Shop [günstig bestellen]",
+        "defaultMetaDescription": "Hochwertige Türen von $HERSTELLER - Finde bei uns die beste Auswahl an Innen- und Außentüren unserer Top Marken für dein Zuhause.",
         "defaultRobots": "index, follow",
         "brands": [
             {
