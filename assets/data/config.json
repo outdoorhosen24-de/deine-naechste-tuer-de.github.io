@@ -52,11 +52,39 @@
             "metaDescription": "Große Auswahl zum günstigen Preis - Kaufe jetzt bei uns Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Türen: Ein kurzer Text über die verschiedenen Arten von Türen.",
-                        "text": "Türen sind ein wesentlicher Bestandteil unseres Alltags. Wir benutzen sie, um unsere Häuser, Wohnungen und Autos zu betreten und zu verlassen. Türen können aus verschiedenen Materialien wie Holz, Metall oder Kunststoff hergestellt werden. Sie können auch unterschiedliche Formen und Größen haben.\n\nTüren dienen uns als Schutz vor dem Wetter und vor Einbrechern. Sie halten uns warm, wenn es draußen kalt ist, und kühl, wenn es draußen heiß ist. Türen können auch ein dekoratives Element in unseren Häusern sein. Wir können sie mit verschiedenen Designs und Farben gestalten.\n\nTüren sind nicht nur praktisch, sondern können auch ein Symbol für etwas sein. Die Tür zu unserem Haus kann ein Symbol für unsere Privatsphäre sein. Wir können sie öffnen, wenn wir Besuch bekommen, und schließen, wenn wir alleine sein wollen. Die Tür zu einem Raum in einem Gebäude kann auch ein Symbol für den Zugang zu diesem Raum sein. Wenn die Tür geschlossen ist, bedeutet dies, dass der Raum nicht betreten werden kann.\n\nTüren können uns also vor dem Wetter, Einbrechern und anderen Gefahren schützen. Sie können aber auch ein Symbol für unsere Privatsphäre oder den Zugang zu einem Raum sein."
+                        "title": "Willkommen bei Deine-nächste-Tür",
+                        "text": "Herzlich willkommen auf Deine-nächste-Tür, Ihrem Online-Shop für hochwertige Türen. Wir bieten Ihnen eine große Auswahl an verschiedenen Türtypen, darunter Türstopper, Zimmertüren und Zargen, Stahltüren, Glastüren und Schiebetüren, Haustüren, Nebeneingangstüren und Falttüren. Unsere Produkte zeichnen sich durch ihre hohe Qualität, Langlebigkeit und Funktionalität aus. Wir sind stolz darauf, Ihnen eine umfassende Auswahl an Türen zu einem erschwinglichen Preis anbieten zu können. Stöbern Sie durch unser Angebot und finden Sie die perfekte Tür für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Türstopper",
+                        "text": "<a href=\"/kategorie/tuerstopper/\" title=\"Türstopper\">Türstopper</a> sind ein wichtiger Bestandteil jeder Tür. Sie verhindern, dass die Tür gegen die Wand oder einen anderen Gegenstand schlägt und Schäden verursacht. In unserem Online-Shop finden Sie eine große Auswahl an Türstoppern in verschiedenen Ausführungen und Designs. Ob Sie einen klassischen Türstopper aus Gummi oder einen modernen Türstopper aus Edelstahl suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie den perfekten Türstopper für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Zimmertüren & Zargen",
+                        "text": "Zimmertüren und Zargen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie schützen nicht nur vor Lärm und Zugluft, sondern tragen auch zur Optik und Atmosphäre des Raumes bei. In unserem Online-Shop finden Sie eine große Auswahl an Zimmertüren und Zargen in verschiedenen Ausführungen und Designs. Ob Sie eine einfache weiße Tür oder eine Tür mit Holzoptik suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Zimmertür und Zarge für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Stahltüren",
+                        "text": "<a href=\"/kategorie/stahltueren/\" title=\"Stahltüren\">Stahltüren</a> sind besonders robust und langlebig. Sie bieten einen optimalen Schutz vor Einbruch und Feuer. In unserem Online-Shop finden Sie eine große Auswahl an Stahltüren in verschiedenen Ausführungen und Designs. Ob Sie eine einfache Stahltür oder eine Stahltür mit besonderen Funktionen wie einer elektronischen Türöffnung suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Stahltür für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Glastüren & Schiebetüren",
+                        "text": "Entdecken Sie bei Deine-nächste-Tür eine breite Auswahl an Glastüren und Schiebetüren. Unsere Türen sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Optik und Funktionalität. Ob für Ihr Zuhause oder Ihr Büro, wir haben die perfekte Tür für Sie. Stöbern Sie durch unsere Kategorie <a href=\"/kategorie/glastueren-schiebetueren/\" title=\"Glastüren & Schiebetüren\">Glastüren & Schiebetüren</a> und finden Sie Ihre neue Tür noch heute."
+                    },
+                    {
+                        "title": "Haustüren",
+                        "text": "Eine neue Haustür ist eine wichtige Entscheidung, die sowohl optisch als auch praktisch von Bedeutung ist. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/haustueren/\" title=\"Haustüren\">Haustüren</a> in verschiedenen Stilen, Materialien und Farben. Ob Sie eine klassische Holztür oder eine moderne Stahltür bevorzugen, wir haben die perfekte Tür für Ihr Zuhause. Stöbern Sie durch unsere Kategorie Haustüren und finden Sie Ihre neue Tür noch heute."
+                    },
+                    {
+                        "title": "Nebeneingangstüren",
+                        "text": "Eine robuste Nebeneingangstür ist wichtig für den Schutz Ihres Zuhauses. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/nebeneingangstueren/\" title=\"Nebeneingangstüren\">Nebeneingangstüren</a> in verschiedenen Stilen und Materialien. Unsere Türen sind sicher, langlebig und bieten eine hervorragende Optik. Stöbern Sie durch unsere Kategorie Nebeneingangstüren und finden Sie Ihre neue Tür noch heute."
+                    },
+                    {
+                        "title": "Falttüren - Platzsparende Lösung für Ihr Zuhause",
+                        "text": "Falttüren sind eine platzsparende und praktische Lösung für Ihr Zuhause. Sie ermöglichen es, Räume optimal zu nutzen, ohne dass Sie auf den Komfort verzichten müssen. Ob als Raumteiler, als Tür zu einem Balkon oder als Eingang zu einem Garten, Falttüren bieten eine Vielzahl an Möglichkeiten. Auf unserer Website finden Sie eine große Auswahl an Falttüren in verschiedenen Ausführungen und Designs. Entdecken Sie jetzt Ihre neue Falttür und nutzen Sie den Vorteil von mehr Platz in Ihrem Zuhause."
                     }
                 ]
             }
