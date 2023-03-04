@@ -2,49 +2,49 @@
     {
         "key": "türstopper",
         "name": "Türstopper",
-        "slug": "turstopper",
+        "slug": "tuerstopper",
         "productCategory": "Türstopper",
         "subCategories": []
     },
     {
         "key": "zimmertüren & zargen",
         "name": "Zimmertüren & Zargen",
-        "slug": "zimmerturen-zargen",
+        "slug": "zimmertueren-zargen",
         "productCategory": "Zimmertüren & Zargen",
         "subCategories": []
     },
     {
         "key": "stahltüren",
         "name": "Stahltüren",
-        "slug": "stahlturen",
+        "slug": "stahltueren",
         "productCategory": "Stahltüren",
         "subCategories": []
     },
     {
         "key": "glastüren & schiebetüren",
         "name": "Glastüren & Schiebetüren",
-        "slug": "glasturen-schiebeturen",
+        "slug": "glastueren-schiebetueren",
         "productCategory": "Glastüren & Schiebetüren",
         "subCategories": []
     },
     {
         "key": "haustüren",
         "name": "Haustüren",
-        "slug": "hausturen",
+        "slug": "haustueren",
         "productCategory": "Haustüren",
         "subCategories": []
     },
     {
         "key": "nebeneingangstüren",
         "name": "Nebeneingangstüren",
-        "slug": "nebeneingangsturen",
+        "slug": "nebeneingangstueren",
         "productCategory": "Nebeneingangstüren",
         "subCategories": []
     },
     {
         "key": "falttüren",
         "name": "Falttüren",
-        "slug": "faltturen",
+        "slug": "falttueren",
         "productCategory": "Falttüren",
         "subCategories": []
     }
