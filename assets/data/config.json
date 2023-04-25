@@ -1,192 +1,195 @@
 {
-    "configIsReady": true,
-    "domain": "deine-naechste-tuer.de",
-    "hostname": "https://www.deine-naechste-tuer.de/",
-    "email": "deine-naechste-tuer.de@surrealnetworks.io",
-    "organization": "deine-naechste-tuer.de",
-    "logoText": "Deine-naechste-tuer.de",
-    "title": "Türen Shop",
-    "subline": "Der Online Shop für deine nächste Tür",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "9838442",
-        "8453268",
-        "3731122",
-        "6768030",
-        "8319212",
-        "9838061"
-    ],
-    "winnerProducts": [
-        "6767719",
-        "8318974",
-        "6768139"
-    ],
-    "featuredCategories": [
-        "Falttüren",
-        "Türstopper",
-        "Haustüren",
-        "Zimmertüren & Zargen",
-        "Haustüren",
-        "Glastüren & Schiebetüren"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Türen",
-        "featureText": "Herzlich Willkommen! Wir beschäftigen uns mit dem Ort wo der Maurer das Loch gelassen hat, denn das Loch muss geschlossen werden. Wir betrachten Türen natürlich nicht nur als Mittel zum Zweck, sondern haben uns mit ganzheitlichem Blick vielen Arten der Tür zugewandt. Zum Beispiel haben wir in unserem Sortiment Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneinganstüren, Stahltüren und sogar Türstopper anzubieten. Wir wollen sie gemeinsam mit dir finden - Die Tür zu deinem Glück!",
-        "index": {
-            "title": "Günstig Türen kaufen | Deine nächste Tür",
-            "metaDescription": "Große Auswahl zum günstigen Preis - Kaufe jetzt bei uns Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Deine-nächste-Tür",
-                        "text": "Herzlich willkommen auf Deine-nächste-Tür, Ihrem Online-Shop für hochwertige Türen. Wir bieten Ihnen eine große Auswahl an verschiedenen Türtypen, darunter Türstopper, Zimmertüren und Zargen, Stahltüren, Glastüren und Schiebetüren, Haustüren, Nebeneingangstüren und Falttüren. Unsere Produkte zeichnen sich durch ihre hohe Qualität, Langlebigkeit und Funktionalität aus. Wir sind stolz darauf, Ihnen eine umfassende Auswahl an Türen zu einem erschwinglichen Preis anbieten zu können. Stöbern Sie durch unser Angebot und finden Sie die perfekte Tür für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Türstopper",
-                        "text": "<a href=\"/kategorie/tuerstopper/\" title=\"Türstopper\">Türstopper</a> sind ein wichtiger Bestandteil jeder Tür. Sie verhindern, dass die Tür gegen die Wand oder einen anderen Gegenstand schlägt und Schäden verursacht. In unserem Online-Shop finden Sie eine große Auswahl an Türstoppern in verschiedenen Ausführungen und Designs. Ob Sie einen klassischen Türstopper aus Gummi oder einen modernen Türstopper aus Edelstahl suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie den perfekten Türstopper für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Zimmertüren & Zargen",
-                        "text": "Zimmertüren und Zargen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie schützen nicht nur vor Lärm und Zugluft, sondern tragen auch zur Optik und Atmosphäre des Raumes bei. In unserem Online-Shop finden Sie eine große Auswahl an Zimmertüren und Zargen in verschiedenen Ausführungen und Designs. Ob Sie eine einfache weiße Tür oder eine Tür mit Holzoptik suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Zimmertür und Zarge für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Stahltüren",
-                        "text": "<a href=\"/kategorie/stahltueren/\" title=\"Stahltüren\">Stahltüren</a> sind besonders robust und langlebig. Sie bieten einen optimalen Schutz vor Einbruch und Feuer. In unserem Online-Shop finden Sie eine große Auswahl an Stahltüren in verschiedenen Ausführungen und Designs. Ob Sie eine einfache Stahltür oder eine Stahltür mit besonderen Funktionen wie einer elektronischen Türöffnung suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Stahltür für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Glastüren & Schiebetüren",
-                        "text": "Entdecken Sie bei Deine-nächste-Tür eine breite Auswahl an Glastüren und Schiebetüren. Unsere Türen sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Optik und Funktionalität. Ob für Ihr Zuhause oder Ihr Büro, wir haben die perfekte Tür für Sie. Stöbern Sie durch unsere Kategorie <a href=\"/kategorie/glastueren-schiebetueren/\" title=\"Glastüren & Schiebetüren\">Glastüren & Schiebetüren</a> und finden Sie Ihre neue Tür noch heute."
-                    },
-                    {
-                        "title": "Haustüren",
-                        "text": "Eine neue Haustür ist eine wichtige Entscheidung, die sowohl optisch als auch praktisch von Bedeutung ist. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/haustueren/\" title=\"Haustüren\">Haustüren</a> in verschiedenen Stilen, Materialien und Farben. Ob Sie eine klassische Holztür oder eine moderne Stahltür bevorzugen, wir haben die perfekte Tür für Ihr Zuhause. Stöbern Sie durch unsere Kategorie Haustüren und finden Sie Ihre neue Tür noch heute."
-                    },
-                    {
-                        "title": "Nebeneingangstüren",
-                        "text": "Eine robuste Nebeneingangstür ist wichtig für den Schutz Ihres Zuhauses. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/nebeneingangstueren/\" title=\"Nebeneingangstüren\">Nebeneingangstüren</a> in verschiedenen Stilen und Materialien. Unsere Türen sind sicher, langlebig und bieten eine hervorragende Optik. Stöbern Sie durch unsere Kategorie Nebeneingangstüren und finden Sie Ihre neue Tür noch heute."
-                    },
-                    {
-                        "title": "Falttüren - Platzsparende Lösung für Ihr Zuhause",
-                        "text": "Falttüren sind eine platzsparende und praktische Lösung für Ihr Zuhause. Sie ermöglichen es, Räume optimal zu nutzen, ohne dass Sie auf den Komfort verzichten müssen. Ob als Raumteiler, als Tür zu einem Balkon oder als Eingang zu einem Garten, Falttüren bieten eine Vielzahl an Möglichkeiten. Auf unserer Website finden Sie eine große Auswahl an Falttüren in verschiedenen Ausführungen und Designs. Entdecken Sie jetzt Ihre neue Falttür und nutzen Sie den Vorteil von mehr Platz in Ihrem Zuhause."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Günstige Türen zur großen Auswahl | Türen Shop",
-            "metaDescription": "Entdecken Sie unser Sortiment an Zimmertüren & Zargen, Stahltüren, Glas- & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hochwertige Türen von Top Marken | Türen Shop",
-            "metaDescription": "Unsere Türen sind von den Top Marken wie Borne, GetaDoor, Hörmann, Radex, PANTO, Classen, Grosfillex, Burg Wächter, EcoStar oder Splendoor.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Die Tür zum Glück",
-        "defaultMetaDescription": "Die Tür die zu dir passt: Das Beste der Kategorie $KATEGORIE - die Tür $PRODUKT von unserer Top Marke $HERSTELLER zum günstigen Preis. ",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "deine-naechste-tuer.de",
+  "hostname": "https://www.deine-naechste-tuer.de/",
+  "email": "deine-naechste-tuer.de@surrealnetworks.io",
+  "organization": "deine-naechste-tuer.de",
+  "logoText": "Deine-naechste-tuer.de",
+  "title": "T\u00fcren Shop",
+  "subline": "Der Online Shop f\u00fcr deine n\u00e4chste T\u00fcr",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "9838442",
+    "8453268",
+    "3731122",
+    "6768030",
+    "8319212",
+    "9838061"
+  ],
+  "winnerProducts": [
+    "6767719",
+    "8318974",
+    "6768139"
+  ],
+  "featuredCategories": [
+    "Faltt\u00fcren",
+    "T\u00fcrstopper",
+    "Haust\u00fcren",
+    "Zimmert\u00fcren & Zargen",
+    "Haust\u00fcren",
+    "Glast\u00fcren & Schiebet\u00fcren"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "T\u00fcren",
+    "featureText": "Herzlich Willkommen! Wir besch\u00e4ftigen uns mit dem Ort wo der Maurer das Loch gelassen hat, denn das Loch muss geschlossen werden. Wir betrachten T\u00fcren nat\u00fcrlich nicht nur als Mittel zum Zweck, sondern haben uns mit ganzheitlichem Blick vielen Arten der T\u00fcr zugewandt. Zum Beispiel haben wir in unserem Sortiment Zimmert\u00fcren & Zargen, Glast\u00fcren & Schiebet\u00fcren, Haust\u00fcren, Nebeneinganst\u00fcren, Stahlt\u00fcren und sogar T\u00fcrstopper anzubieten. Wir wollen sie gemeinsam mit dir finden - Die T\u00fcr zu deinem Gl\u00fcck!",
+    "index": {
+      "title": "G\u00fcnstig T\u00fcren kaufen | Deine n\u00e4chste T\u00fcr",
+      "metaDescription": "Gro\u00dfe Auswahl zum g\u00fcnstigen Preis - Kaufe jetzt bei uns Zimmert\u00fcren & Zargen, Glast\u00fcren & Schiebet\u00fcren, Haust\u00fcren, Nebeneingangst\u00fcren, Faltt\u00fcren und T\u00fcrstopper.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Deine-n\u00e4chste-T\u00fcr",
+            "text": "Herzlich willkommen auf Deine-n\u00e4chste-T\u00fcr, Ihrem Online-Shop f\u00fcr hochwertige T\u00fcren. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen T\u00fcrtypen, darunter T\u00fcrstopper, Zimmert\u00fcren und Zargen, Stahlt\u00fcren, Glast\u00fcren und Schiebet\u00fcren, Haust\u00fcren, Nebeneingangst\u00fcren und Faltt\u00fcren. Unsere Produkte zeichnen sich durch ihre hohe Qualit\u00e4t, Langlebigkeit und Funktionalit\u00e4t aus. Wir sind stolz darauf, Ihnen eine umfassende Auswahl an T\u00fcren zu einem erschwinglichen Preis anbieten zu k\u00f6nnen. St\u00f6bern Sie durch unser Angebot und finden Sie die perfekte T\u00fcr f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "T\u00fcrstopper",
+            "text": "<a href=\"/kategorie/tuerstopper/\" title=\"T\u00fcrstopper\">T\u00fcrstopper</a> sind ein wichtiger Bestandteil jeder T\u00fcr. Sie verhindern, dass die T\u00fcr gegen die Wand oder einen anderen Gegenstand schl\u00e4gt und Sch\u00e4den verursacht. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an T\u00fcrstoppern in verschiedenen Ausf\u00fchrungen und Designs. Ob Sie einen klassischen T\u00fcrstopper aus Gummi oder einen modernen T\u00fcrstopper aus Edelstahl suchen, wir haben f\u00fcr jeden Geschmack das richtige Angebot. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und finden Sie den perfekten T\u00fcrstopper f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Zimmert\u00fcren & Zargen",
+            "text": "Zimmert\u00fcren und Zargen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie sch\u00fctzen nicht nur vor L\u00e4rm und Zugluft, sondern tragen auch zur Optik und Atmosph\u00e4re des Raumes bei. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Zimmert\u00fcren und Zargen in verschiedenen Ausf\u00fchrungen und Designs. Ob Sie eine einfache wei\u00dfe T\u00fcr oder eine T\u00fcr mit Holzoptik suchen, wir haben f\u00fcr jeden Geschmack das richtige Angebot. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und finden Sie die perfekte Zimmert\u00fcr und Zarge f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Stahlt\u00fcren",
+            "text": "<a href=\"/kategorie/stahltueren/\" title=\"Stahlt\u00fcren\">Stahlt\u00fcren</a> sind besonders robust und langlebig. Sie bieten einen optimalen Schutz vor Einbruch und Feuer. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Stahlt\u00fcren in verschiedenen Ausf\u00fchrungen und Designs. Ob Sie eine einfache Stahlt\u00fcr oder eine Stahlt\u00fcr mit besonderen Funktionen wie einer elektronischen T\u00fcr\u00f6ffnung suchen, wir haben f\u00fcr jeden Geschmack das richtige Angebot. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl und finden Sie die perfekte Stahlt\u00fcr f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Glast\u00fcren & Schiebet\u00fcren",
+            "text": "Entdecken Sie bei Deine-n\u00e4chste-T\u00fcr eine breite Auswahl an Glast\u00fcren und Schiebet\u00fcren. Unsere T\u00fcren sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Optik und Funktionalit\u00e4t. Ob f\u00fcr Ihr Zuhause oder Ihr B\u00fcro, wir haben die perfekte T\u00fcr f\u00fcr Sie. St\u00f6bern Sie durch unsere Kategorie <a href=\"/kategorie/glastueren-schiebetueren/\" title=\"Glast\u00fcren & Schiebet\u00fcren\">Glast\u00fcren & Schiebet\u00fcren</a> und finden Sie Ihre neue T\u00fcr noch heute."
+          },
+          {
+            "title": "Haust\u00fcren",
+            "text": "Eine neue Haust\u00fcr ist eine wichtige Entscheidung, die sowohl optisch als auch praktisch von Bedeutung ist. Bei Deine-n\u00e4chste-T\u00fcr finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/haustueren/\" title=\"Haust\u00fcren\">Haust\u00fcren</a> in verschiedenen Stilen, Materialien und Farben. Ob Sie eine klassische Holzt\u00fcr oder eine moderne Stahlt\u00fcr bevorzugen, wir haben die perfekte T\u00fcr f\u00fcr Ihr Zuhause. St\u00f6bern Sie durch unsere Kategorie Haust\u00fcren und finden Sie Ihre neue T\u00fcr noch heute."
+          },
+          {
+            "title": "Nebeneingangst\u00fcren",
+            "text": "Eine robuste Nebeneingangst\u00fcr ist wichtig f\u00fcr den Schutz Ihres Zuhauses. Bei Deine-n\u00e4chste-T\u00fcr finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/nebeneingangstueren/\" title=\"Nebeneingangst\u00fcren\">Nebeneingangst\u00fcren</a> in verschiedenen Stilen und Materialien. Unsere T\u00fcren sind sicher, langlebig und bieten eine hervorragende Optik. St\u00f6bern Sie durch unsere Kategorie Nebeneingangst\u00fcren und finden Sie Ihre neue T\u00fcr noch heute."
+          },
+          {
+            "title": "Faltt\u00fcren - Platzsparende L\u00f6sung f\u00fcr Ihr Zuhause",
+            "text": "Faltt\u00fcren sind eine platzsparende und praktische L\u00f6sung f\u00fcr Ihr Zuhause. Sie erm\u00f6glichen es, R\u00e4ume optimal zu nutzen, ohne dass Sie auf den Komfort verzichten m\u00fcssen. Ob als Raumteiler, als T\u00fcr zu einem Balkon oder als Eingang zu einem Garten, Faltt\u00fcren bieten eine Vielzahl an M\u00f6glichkeiten. Auf unserer Website finden Sie eine gro\u00dfe Auswahl an Faltt\u00fcren in verschiedenen Ausf\u00fchrungen und Designs. Entdecken Sie jetzt Ihre neue Faltt\u00fcr und nutzen Sie den Vorteil von mehr Platz in Ihrem Zuhause."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE für jeden Geschmack",
-        "defaultMetaDescription": "Große Auswahl zum günstigen Preis - Durch unsere Auswahl verschiedenster $KATEGORIE finden wir mit dir gemeinsam die Tür und Zubehör für dein Zuhause.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "G\u00fcnstige T\u00fcren zur gro\u00dfen Auswahl | T\u00fcren Shop",
+      "metaDescription": "Entdecken Sie unser Sortiment an Zimmert\u00fcren & Zargen, Stahlt\u00fcren, Glas- & Schiebet\u00fcren, Haust\u00fcren, Nebeneingangst\u00fcren, Faltt\u00fcren und T\u00fcrstopper.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Türen Shop [günstig bestellen]",
-        "defaultMetaDescription": "Hochwertige Türen von $HERSTELLER - Finde bei uns die beste Auswahl an Innen- und Außentüren unserer Top Marken für dein Zuhause.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Türen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Türen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Türen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hochwertige T\u00fcren von Top Marken | T\u00fcren Shop",
+      "metaDescription": "Unsere T\u00fcren sind von den Top Marken wie Borne, GetaDoor, H\u00f6rmann, Radex, PANTO, Classen, Grosfillex, Burg W\u00e4chter, EcoStar oder Splendoor.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Die T\u00fcr zum Gl\u00fcck",
+    "defaultMetaDescription": "Die T\u00fcr die zu dir passt: Das Beste der Kategorie $KATEGORIE - die T\u00fcr $PRODUKT von unserer Top Marke $HERSTELLER zum g\u00fcnstigen Preis. ",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE f\u00fcr jeden Geschmack",
+    "defaultMetaDescription": "Gro\u00dfe Auswahl zum g\u00fcnstigen Preis - Durch unsere Auswahl verschiedenster $KATEGORIE finden wir mit dir gemeinsam die T\u00fcr und Zubeh\u00f6r f\u00fcr dein Zuhause.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | T\u00fcren Shop [g\u00fcnstig bestellen]",
+    "defaultMetaDescription": "Hochwertige T\u00fcren von $HERSTELLER - Finde bei uns die beste Auswahl an Innen- und Au\u00dfent\u00fcren unserer Top Marken f\u00fcr dein Zuhause.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "T\u00fcren",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "T\u00fcren Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "T\u00fcren Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
