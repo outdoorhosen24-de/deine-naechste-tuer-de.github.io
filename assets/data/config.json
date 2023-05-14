@@ -1,305 +1,312 @@
 {
-  "configIsReady": true,
-  "domain": "deine-naechste-tuer.de",
-  "hostname": "https://www.deine-naechste-tuer.de/",
-  "email": "deine-naechste-tuer.de@surrealnetworks.io",
-  "organization": "deine-naechste-tuer.de",
-  "logoText": "Deine-naechste-tuer.de",
-  "title": "Türen Shop",
-  "subline": "Der Online Shop für deine nächste Tür",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "9838442",
-    "8453268",
-    "3731122",
-    "6768030",
-    "8319212",
-    "9838061"
-  ],
-  "winnerProducts": [
-    "6767719",
-    "8318974",
-    "6768139"
-  ],
-  "featuredCategories": [
-    "Falttüren",
-    "Türstopper",
-    "Haustüren",
-    "Zimmertüren & Zargen",
-    "Haustüren",
-    "Glastüren & Schiebetüren"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Türen",
-    "featureText": "Herzlich Willkommen! Wir beschäftigen uns mit dem Ort wo der Maurer das Loch gelassen hat, denn das Loch muss geschlossen werden. Wir betrachten Türen natürlich nicht nur als Mittel zum Zweck, sondern haben uns mit ganzheitlichem Blick vielen Arten der Tür zugewandt. Zum Beispiel haben wir in unserem Sortiment Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneinganstüren, Stahltüren und sogar Türstopper anzubieten. Wir wollen sie gemeinsam mit dir finden - Die Tür zu deinem Glück!",
-    "index": {
-      "title": "Günstig Türen kaufen | Deine nächste Tür",
-      "metaDescription": "Große Auswahl zum günstigen Preis - Kaufe jetzt bei uns Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Deine-nächste-Tür",
-            "text": "Herzlich willkommen auf Deine-nächste-Tür, Ihrem Online-Shop für hochwertige Türen. Wir bieten Ihnen eine große Auswahl an verschiedenen Türtypen, darunter Türstopper, Zimmertüren und Zargen, Stahltüren, Glastüren und Schiebetüren, Haustüren, Nebeneingangstüren und Falttüren. Unsere Produkte zeichnen sich durch ihre hohe Qualität, Langlebigkeit und Funktionalität aus. Wir sind stolz darauf, Ihnen eine umfassende Auswahl an Türen zu einem erschwinglichen Preis anbieten zu können. Stöbern Sie durch unser Angebot und finden Sie die perfekte Tür für Ihr Zuhause."
-          },
-          {
-            "title": "Türstopper",
-            "text": "<a href=\"/kategorie/tuerstopper/\" title=\"Türstopper\">Türstopper</a> sind ein wichtiger Bestandteil jeder Tür. Sie verhindern, dass die Tür gegen die Wand oder einen anderen Gegenstand schlägt und Schäden verursacht. In unserem Online-Shop finden Sie eine große Auswahl an Türstoppern in verschiedenen Ausführungen und Designs. Ob Sie einen klassischen Türstopper aus Gummi oder einen modernen Türstopper aus Edelstahl suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie den perfekten Türstopper für Ihr Zuhause."
-          },
-          {
-            "title": "Zimmertüren & Zargen",
-            "text": "Zimmertüren und Zargen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie schützen nicht nur vor Lärm und Zugluft, sondern tragen auch zur Optik und Atmosphäre des Raumes bei. In unserem Online-Shop finden Sie eine große Auswahl an Zimmertüren und Zargen in verschiedenen Ausführungen und Designs. Ob Sie eine einfache weiße Tür oder eine Tür mit Holzoptik suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Zimmertür und Zarge für Ihr Zuhause."
-          },
-          {
-            "title": "Stahltüren",
-            "text": "<a href=\"/kategorie/stahltueren/\" title=\"Stahltüren\">Stahltüren</a> sind besonders robust und langlebig. Sie bieten einen optimalen Schutz vor Einbruch und Feuer. In unserem Online-Shop finden Sie eine große Auswahl an Stahltüren in verschiedenen Ausführungen und Designs. Ob Sie eine einfache Stahltür oder eine Stahltür mit besonderen Funktionen wie einer elektronischen Türöffnung suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Stahltür für Ihr Zuhause."
-          },
-          {
-            "title": "Glastüren & Schiebetüren",
-            "text": "Entdecken Sie bei Deine-nächste-Tür eine breite Auswahl an Glastüren und Schiebetüren. Unsere Türen sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Optik und Funktionalität. Ob für Ihr Zuhause oder Ihr Büro, wir haben die perfekte Tür für Sie. Stöbern Sie durch unsere Kategorie <a href=\"/kategorie/glastueren-schiebetueren/\" title=\"Glastüren & Schiebetüren\">Glastüren & Schiebetüren</a> und finden Sie Ihre neue Tür noch heute."
-          },
-          {
-            "title": "Haustüren",
-            "text": "Eine neue Haustür ist eine wichtige Entscheidung, die sowohl optisch als auch praktisch von Bedeutung ist. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/haustueren/\" title=\"Haustüren\">Haustüren</a> in verschiedenen Stilen, Materialien und Farben. Ob Sie eine klassische Holztür oder eine moderne Stahltür bevorzugen, wir haben die perfekte Tür für Ihr Zuhause. Stöbern Sie durch unsere Kategorie Haustüren und finden Sie Ihre neue Tür noch heute."
-          },
-          {
-            "title": "Nebeneingangstüren",
-            "text": "Eine robuste Nebeneingangstür ist wichtig für den Schutz Ihres Zuhauses. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/nebeneingangstueren/\" title=\"Nebeneingangstüren\">Nebeneingangstüren</a> in verschiedenen Stilen und Materialien. Unsere Türen sind sicher, langlebig und bieten eine hervorragende Optik. Stöbern Sie durch unsere Kategorie Nebeneingangstüren und finden Sie Ihre neue Tür noch heute."
-          },
-          {
-            "title": "Falttüren - Platzsparende Lösung für Ihr Zuhause",
-            "text": "Falttüren sind eine platzsparende und praktische Lösung für Ihr Zuhause. Sie ermöglichen es, Räume optimal zu nutzen, ohne dass Sie auf den Komfort verzichten müssen. Ob als Raumteiler, als Tür zu einem Balkon oder als Eingang zu einem Garten, Falttüren bieten eine Vielzahl an Möglichkeiten. Auf unserer Website finden Sie eine große Auswahl an Falttüren in verschiedenen Ausführungen und Designs. Entdecken Sie jetzt Ihre neue Falttür und nutzen Sie den Vorteil von mehr Platz in Ihrem Zuhause."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "deine-naechste-tuer.de",
+    "hostname": "https://www.deine-naechste-tuer.de/",
+    "email": "deine-naechste-tuer.de@surrealnetworks.io",
+    "organization": "deine-naechste-tuer.de",
+    "logoText": "Deine-naechste-tuer.de",
+    "title": "Türen Shop",
+    "subline": "Der Online Shop für deine nächste Tür",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "9838442",
+        "8453268",
+        "3731122",
+        "6768030",
+        "8319212",
+        "9838061"
+    ],
+    "winnerProducts": [
+        "6767719",
+        "8318974",
+        "6768139"
+    ],
+    "featuredCategories": [
+        "Falttüren",
+        "Türstopper",
+        "Haustüren",
+        "Zimmertüren & Zargen",
+        "Haustüren",
+        "Glastüren & Schiebetüren"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Türen",
+        "featureText": "Herzlich Willkommen! Wir beschäftigen uns mit dem Ort wo der Maurer das Loch gelassen hat, denn das Loch muss geschlossen werden. Wir betrachten Türen natürlich nicht nur als Mittel zum Zweck, sondern haben uns mit ganzheitlichem Blick vielen Arten der Tür zugewandt. Zum Beispiel haben wir in unserem Sortiment Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneinganstüren, Stahltüren und sogar Türstopper anzubieten. Wir wollen sie gemeinsam mit dir finden - Die Tür zu deinem Glück!",
+        "index": {
+            "title": "Günstig Türen kaufen | Deine nächste Tür",
+            "metaDescription": "Große Auswahl zum günstigen Preis - Kaufe jetzt bei uns Zimmertüren & Zargen, Glastüren & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Deine-nächste-Tür",
+                        "text": "Herzlich willkommen auf Deine-nächste-Tür, Ihrem Online-Shop für hochwertige Türen. Wir bieten Ihnen eine große Auswahl an verschiedenen Türtypen, darunter Türstopper, Zimmertüren und Zargen, Stahltüren, Glastüren und Schiebetüren, Haustüren, Nebeneingangstüren und Falttüren. Unsere Produkte zeichnen sich durch ihre hohe Qualität, Langlebigkeit und Funktionalität aus. Wir sind stolz darauf, Ihnen eine umfassende Auswahl an Türen zu einem erschwinglichen Preis anbieten zu können. Stöbern Sie durch unser Angebot und finden Sie die perfekte Tür für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Türstopper",
+                        "text": "<a href=\"/kategorie/tuerstopper/\" title=\"Türstopper\">Türstopper</a> sind ein wichtiger Bestandteil jeder Tür. Sie verhindern, dass die Tür gegen die Wand oder einen anderen Gegenstand schlägt und Schäden verursacht. In unserem Online-Shop finden Sie eine große Auswahl an Türstoppern in verschiedenen Ausführungen und Designs. Ob Sie einen klassischen Türstopper aus Gummi oder einen modernen Türstopper aus Edelstahl suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie den perfekten Türstopper für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Zimmertüren & Zargen",
+                        "text": "Zimmertüren und Zargen sind ein wichtiger Bestandteil jeder Wohnung oder jedes Hauses. Sie schützen nicht nur vor Lärm und Zugluft, sondern tragen auch zur Optik und Atmosphäre des Raumes bei. In unserem Online-Shop finden Sie eine große Auswahl an Zimmertüren und Zargen in verschiedenen Ausführungen und Designs. Ob Sie eine einfache weiße Tür oder eine Tür mit Holzoptik suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Zimmertür und Zarge für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Stahltüren",
+                        "text": "<a href=\"/kategorie/stahltueren/\" title=\"Stahltüren\">Stahltüren</a> sind besonders robust und langlebig. Sie bieten einen optimalen Schutz vor Einbruch und Feuer. In unserem Online-Shop finden Sie eine große Auswahl an Stahltüren in verschiedenen Ausführungen und Designs. Ob Sie eine einfache Stahltür oder eine Stahltür mit besonderen Funktionen wie einer elektronischen Türöffnung suchen, wir haben für jeden Geschmack das richtige Angebot. Überzeugen Sie sich selbst von unserer großen Auswahl und finden Sie die perfekte Stahltür für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Glastüren & Schiebetüren",
+                        "text": "Entdecken Sie bei Deine-nächste-Tür eine breite Auswahl an Glastüren und Schiebetüren. Unsere Türen sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Optik und Funktionalität. Ob für Ihr Zuhause oder Ihr Büro, wir haben die perfekte Tür für Sie. Stöbern Sie durch unsere Kategorie <a href=\"/kategorie/glastueren-schiebetueren/\" title=\"Glastüren & Schiebetüren\">Glastüren & Schiebetüren</a> und finden Sie Ihre neue Tür noch heute."
+                    },
+                    {
+                        "title": "Haustüren",
+                        "text": "Eine neue Haustür ist eine wichtige Entscheidung, die sowohl optisch als auch praktisch von Bedeutung ist. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/haustueren/\" title=\"Haustüren\">Haustüren</a> in verschiedenen Stilen, Materialien und Farben. Ob Sie eine klassische Holztür oder eine moderne Stahltür bevorzugen, wir haben die perfekte Tür für Ihr Zuhause. Stöbern Sie durch unsere Kategorie Haustüren und finden Sie Ihre neue Tür noch heute."
+                    },
+                    {
+                        "title": "Nebeneingangstüren",
+                        "text": "Eine robuste Nebeneingangstür ist wichtig für den Schutz Ihres Zuhauses. Bei Deine-nächste-Tür finden Sie eine große Auswahl an <a href=\"/kategorie/nebeneingangstueren/\" title=\"Nebeneingangstüren\">Nebeneingangstüren</a> in verschiedenen Stilen und Materialien. Unsere Türen sind sicher, langlebig und bieten eine hervorragende Optik. Stöbern Sie durch unsere Kategorie Nebeneingangstüren und finden Sie Ihre neue Tür noch heute."
+                    },
+                    {
+                        "title": "Falttüren - Platzsparende Lösung für Ihr Zuhause",
+                        "text": "Falttüren sind eine platzsparende und praktische Lösung für Ihr Zuhause. Sie ermöglichen es, Räume optimal zu nutzen, ohne dass Sie auf den Komfort verzichten müssen. Ob als Raumteiler, als Tür zu einem Balkon oder als Eingang zu einem Garten, Falttüren bieten eine Vielzahl an Möglichkeiten. Auf unserer Website finden Sie eine große Auswahl an Falttüren in verschiedenen Ausführungen und Designs. Entdecken Sie jetzt Ihre neue Falttür und nutzen Sie den Vorteil von mehr Platz in Ihrem Zuhause."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Günstige Türen zur großen Auswahl | Türen Shop",
+            "metaDescription": "Entdecken Sie unser Sortiment an Zimmertüren & Zargen, Stahltüren, Glas- & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Hochwertige Türen von Top Marken | Türen Shop",
+            "metaDescription": "Unsere Türen sind von den Top Marken wie Borne, GetaDoor, Hörmann, Radex, PANTO, Classen, Grosfillex, Burg Wächter, EcoStar oder Splendoor.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Günstige Türen zur großen Auswahl | Türen Shop",
-      "metaDescription": "Entdecken Sie unser Sortiment an Zimmertüren & Zargen, Stahltüren, Glas- & Schiebetüren, Haustüren, Nebeneingangstüren, Falttüren und Türstopper.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Hochwertige Türen von Top Marken | Türen Shop",
-      "metaDescription": "Unsere Türen sind von den Top Marken wie Borne, GetaDoor, Hörmann, Radex, PANTO, Classen, Grosfillex, Burg Wächter, EcoStar oder Splendoor.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | Die Tür zum Glück",
-    "defaultMetaDescription": "Die Tür die zu dir passt: Das Beste der Kategorie $KATEGORIE - die Tür $PRODUKT von unserer Top Marke $HERSTELLER zum günstigen Preis. ",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "3769239",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | Die Tür zum Glück",
+        "defaultMetaDescription": "Die Tür die zu dir passt: Das Beste der Kategorie $KATEGORIE - die Tür $PRODUKT von unserer Top Marke $HERSTELLER zum günstigen Preis. ",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "PANTO Kunststoff-Nebeneingangstür K 501-88 Weiß 88 cm x 198 cm Anschlag Links",
-              "text": "<p class=\"justify\">Die PANTO Kunststoff-Nebeneingangstür K 501-88 in Weiß mit einer Größe von 88 cm x 198 cm und Anschlag Links ist eine praktische und stilvolle Lösung für Ihr Zuhause. Sie gehört zur Kategorie Nebeneingangstüren und bietet eine einfache, funktionale und bewährte Designlösung für Haus und Hof. Die Tür verfügt über ein schlichtes Fenster mit Krizet-Ornamentglas, das dekorativ wirkt und als praktischer Sichtschutz dient.</p><p class=\"justify\">Die K 501-88 Nebeneingangstür bietet eine optimale Wärmedämmung, dank der 20 mm starken isolierten Füllung im Flügelrahmen mit Mehrkammersystem. Dieses System reduziert den Wärmestrom und ist auch im Blendrahmen vorhanden. Die zentralen Glaselemente bestehen aus ISO-Verglasung. Um einer Versteifung der Dichtungen entgegenzuwirken und somit das Eindringen von Luft und Kälte zu vermeiden, wurde die K 501-88 Tür mit dauerelastischen Dichtungen ausgestattet.</p><p class=\"justify\">Für Ihre Sicherheit sind das Türblatt und der Blendrahmen der Nebeneingangstür K 501-88 mit einer Stahlarmierung verstärkt, um erhöhte Stabilität vor Krafteinwirkungen zu gewährleisten. Beide Elemente sind durch zwei Türbänder verbunden und können bei Bedarf dreidimensional verstellt werden. Die Tür ist mit einer 1-fach Verriegelung ausgestattet und enthält eine Aluminium Bodenwinkelschiene. Die benötigten Bohrungen für Schließzylinder und Drücker sind bereits vorhanden, jedoch sind diese Elemente separat erhältlich.</p><p class=\"justify\">Auf Bestellung sind Maßanfertigungen und Sonderausstattungen möglich. Wenden Sie sich hierfür an Ihre nächstgelegene Filiale. Entdecken Sie weitere Informationen zu Maßanfertigungen und Sonderausstattungen im Fachkatalog Haustüren & Nebeneingangstüren. Mit der PANTO Kunststoff-Nebeneingangstür K 501-88 Weiß bringen Sie einen klassischen und funktionalen Stil in Ihren Eingangsbereich. Genießen Sie höchste Qualität und hervorragende Wärmedämmung mit dieser Nebeneingangstür.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1256619",
-        "seo": {
-          "texts": [
-            {
-              "title": "Splendoor Thermospace Elektrischer Türöffner für ThermoSpace Tür Anschlag Links",
-              "text": "<p class=\"justify\">Der Splendoor Thermospace Elektrische Türöffner (SKU 1256619) ist eine hervorragende Lösung für bequemes und sicheres Öffnen und Schließen Ihrer ThermoSpace Haustüren mit Anschlag Links. Zu den Hauptkategorien, in denen dieser Türöffner verwendet werden kann, gehören Startseite, Bauen, Türen und Haustüren. Mit seinem hochwertigen und zuverlässigen Design bietet er eine ideale Möglichkeit, Ihre ThermoSpace Haustüren komfortabel und einfach zu bedienen.</p><p class=\"justify\">Der elektrische Türöffner ist aus robustem Stahl gefertigt, was ihm Stärke und Langlebigkeit verleiht. Dies stellt sicher, dass dieser Türöffner lange haltbar ist und all Ihren Anforderungen entspricht. Er lässt sich einfach im Türrahmen von Türen mit Anschlag-Links montieren, was die Installation zum Kinderspiel macht.</p><p class=\"justify\">Mit diesem Türöffner können Sie Ihre ThermoSpace-Tür auf Knopfdruck entriegeln, was für zusätzliche Sicherheit und Bequemlichkeit sorgt. Das Set enthält den E-Öffner mit Kabel, ein Schließblech und neue Nieten, um Ihnen eine komplette und umfassende Lösung für Ihre Haustüren zu bieten. Dank seiner hervorragenden Qualität und Benutzerfreundlichkeit hat dieser elektrische Türöffner von Splendoor Thermospace eine durchschnittliche Bewertung von 5 Sternen bei 386 Bewertungen erhalten. Somit ist dieser Türöffner eine ausgezeichnete Wahl für alle, die ihre Haustüren komfortabel und sicher gestalten möchten.</p><p class=\"justify\">Zu einem Preis von 109,99 € ist der Splendoor Thermospace Elektrischer Türöffner für ThermoSpace Tür Anschlag Links eine lohnende Investition für alle, die nach einer effektiven und bequemen Lösung für ihre Haustüren suchen. Nutzen Sie dieses innovative und zuverlässige Produkt, um Ihre Türöffnungs- und Schließanforderungen zu erfüllen und Ihr Haus sicherer und komfortabler zu gestalten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5263744",
-        "seo": {
-          "texts": [
-            {
-              "title": "PANTO Kunststoff-Nebeneingangstür K 301 Weiß 98 cm x 198 cm Anschlag Rechts",
-              "text": "<p class=\"justify\">Die PANTO Kunststoff-Nebeneingangstür K 301 in der Farbe Weiß ist eine ausgezeichnete Option für Hausbesitzer, die eine hochwertige und funktionale Tür suchen. Mit einer Größe von 98 cm x 198 cm und einem Anschlag auf der rechten Seite passt die Tür perfekt in viele verschiedene Nebeneingangsbereiche. Die Tür ist aus langlebigem Kunststoff gefertigt und bietet eine optimale Wärmedämmung, Stabilität und Sicherheit.</p><p class=\"justify\">Die K 301 Nebeneingangstür verfügt über ein schlichtes Fenster mit einem dekorativen Mandarin-Glaselement, das nicht nur eine ansprechende Optik bietet, sondern auch als praktischer Sichtschutz dient. Die 20 mm starke isolierte Füllung des Türblattes ist in einen Mehrkammerrahmen eingebettet, der zusammen mit dem Blendrahmen der Tür für beste Wärmedämmung sorgt.</p><p class=\"justify\">Um langfristige Stabilität und Sicherheit zu gewährleisten, sind sowohl das Türblatt als auch der Blendrahmen der K 301 Nebeneingangstür von PANTO verstärkt. Die Türen sind über zwei 3D-Türbänder verbunden, die bei Bedarf dreidimensional verstellt werden können. Zudem verfügt die Tür über dauerelastische Dichtungen, um Kälte und Zugluft effektiv fernzuhalten.</p><p class=\"justify\">Die PANTO Kunststoff-Nebeneingangstür K 301 ist mit einer einfachen Verriegelung ausgestattet, die für ausreichende Sicherheit sorgt. Im Lieferumfang ist eine Aluminium Bodenwinkelschiene enthalten, und die benötigten Bohrungen für den Schließzylinder und Drücker sind bereits vorhanden. Bitte beachten Sie, dass Schließzylinder und Drücker separat erhältlich sind.</p><p class=\"justify\">Mit einer Gesamtbewertung von 4 Sternen und 270 Rezensionen zeigt die PANTO Kunststoff-Nebeneingangstür K 301 sowohl Qualität als auch Kundenzufriedenheit. Die Tür ist in der Kategorie Nebeneingangstüren und als Teil des Bauen-Sortiments ein gutes Beispiel für Funktionalität und Design, das sich seit Jahrzehnten bewährt hat.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5029145",
-        "seo": {
-          "texts": [
-            {
-              "title": "Classen Zimmertür HDF Weiß Lackiert 73,5 cm x 198,5 cm Anschlag R",
-              "text": "<p class=\"justify\">Die Classen Zimmertür HDF Weiß Lackiert 73,5 cm x 198,5 cm Anschlag R ist die perfekte Tür für Ihr Zuhause. Diese hochwertige Zimmertür aus dem Hause Classen überzeugt durch ihren schlichten Look und eine hervorragende Verarbeitung. Die Tür gehört zur Kategorie Zimmertüren & Zargen und ist ideal für den Wohnbereich geeignet.</p><p class=\"justify\">Die Dekoroberfläche und die Wabeneinlage sorgen für eine gute Funktionalität und ermöglichen die vielseitige Verwendung der Tür. Die schlichte weiße Optik mit glatter Oberfläche bietet einen unauffälligen Raumabschluss, der optisch zu jedem Einrichtungsstil passt. Die universelle Zimmertür macht unabhängig von Einrichtung und Wandfarbe immer einen guten Eindruck.</p><p class=\"justify\">Die Türausführung mit einer Wabeneinlage ist besonders leicht, wodurch sie sich hervorragend für den Einsatz in allen Räumen ohne besondere Beanspruchungen eignet. Die Tür ist nicht für die Verwendung in Nass- und Feuchträumen oder im Außenbereich vorgesehen. Die Zimmertür lässt sich einfach einbauen und problemlos selbst einstellen. Sie wird einhängefertig mit Schloss und Bändern geliefert.</p><p class=\"justify\">Einige technische Details der Classen Zimmertür HDF Weiß Lackiert sind: Format: 73,5 cm x 198,5 cm (B x H), Bautiefe: 40 mm, Anschlag: links und Oberfläche: HDF in Weiß. Die Drückergarnitur ist nicht im Lieferumfang enthalten. Das Produkt trägt die SKU 5029145 und die GTIN13 5900255946342.</p><p class=\"justify\">Die Classen Zimmertür HDF Weiß Lackiert 73,5 cm x 198,5 cm Anschlag R erfreut sich großer Beliebtheit und hat in zahlreichen Bewertungen bereits 4 Sterne erhalten. Sie bietet eine hervorragende Qualität und ein gutes Preis-Leistungs-Verhältnis. Entscheiden Sie sich für diese stilvolle und funktionale Zimmertür und verleihen Sie Ihrem Zuhause den perfekten Abschluss.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5061882",
-        "seo": {
-          "texts": [
-            {
-              "title": "GetaDoor Zarge CPL Buche Blumig Nachb. (GL880) 86 cm x 198,5 cm x 18,5 cm Anschlag L",
-              "text": "<p class=\"justify\">Die GetaDoor Zarge CPL Buche Blumig Nachb. (GL880) mit den Maßen 86 cm x 198,5 cm x 18,5 cm Anschlag L ist eine hochwertige und langlebige Türzarge, die sowohl optisch als auch funktional überzeugt. Sie gehört zur Kategorie Zimmertüren & Zargen und passt perfekt in jeden Wohnraum.</p><p class=\"justify\">Die CPL-Oberfläche dieser Zarge macht sie besonders robust und pflegeleicht. Sie ist auf modernsten Maschinen verarbeitet und verfügt über eine hoch verdichtete CPL-Oberfläche. Dies garantiert eine lange Lebensdauer und schützt vor den Herausforderungen des täglichen Lebens. Die Holznachbildung in Buche Blumig Nachbildung oder die unifarbene Option passen sich optimal jedem Wohnraumdesign an und werten Ihren Wohnbereich auf.</p><p class=\"justify\">Der Hersteller GetaDoor steht für Qualität und Zuverlässigkeit, und diese Zarge ist keine Ausnahme. Die Zarge hat eine SKU von 5061882 und eine GTIN13 von 4002592216612. Sie verfügt über ausgezeichnete Bewertungen und eine hohe Anzahl von Rezensionen, die ihre Qualität bestätigen.</p><p class=\"justify\">Zusammengefasst ist die GetaDoor Zarge CPL Buche Blumig Nachb. (GL880) 86 cm x 198,5 cm x 18,5 cm Anschlag L eine stilvolle und langlebige Türzarge, die in jedem Heim eine tolle Ergänzung darstellt. Eine Investition in diese Zarge ist nicht nur optisch lohnenswert, sondern auch eine langfristige Investition in die Lebensdauer und Funktionalität Ihrer Türen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3731411",
-        "seo": {
-          "texts": [
-            {
-              "title": "Kunststoff-Nebeneingangstür 98 cm x 198 cm K508 Weiß Anschlag Links: Stilvolle und funktionale Haustür",
-              "text": "<p class=\"justify\">Die Kunststoff-Nebeneingangstür 98 cm x 198 cm K508 Weiß Anschlag Links von Sonstige ist eine elegante und praktische Lösung für Ihr Zuhause. Diese Haustür überzeugt durch ihre modernen und ansprechenden Design in zeitlosem Weiß und ist für Linksanschlag erhältlich. Sie passt perfekt zu verschiedenen Stilrichtungen und kann leicht in unterschiedliche Hausfassaden integriert werden.</p><p class=\"justify\">Bestehend aus einem hochwertigen Mehrkammersystem mit Stahlarmierung in Flügel und Blendrahmen, bietet die Nebeneingangstür mit einer Profilstärke von 60 mm optimale Stabilität und Langlebigkeit. Zur Ausstattung gehören eine dauerelastische Dichtung, 3-dimensional verstellbare Türbänder (2 Stück), ISO-Krizet-Wärmeschutzverglasung, eine 20 mm isolierte Füllung, eine Alu-Bodenschwelle sowie eine 5-fach Rollzapfenverriegelung. Außerdem verfügt die Tür über eine durchgehende Bohrung für Drücker und Schließzylinder. Bitte beachten Sie, dass Drückergarnitur und Profilzylinder nicht im Lieferumfang enthalten sind.</p><p class=\"justify\">Die Kategorie Haustüren beinhaltet zahlreiche beeindruckende Lösungen für anspruchsvolle Kunden, die Wert auf Qualität, Funktionalität und Ästhetik legen. Mit der Kunststoff-Nebeneingangstür 98 cm x 198 cm K508 Weiß Anschlag Links entscheiden Sie sich für eine Haustür, die nicht nur attraktiv aussieht, sondern auch höchsten Anforderungen gerecht wird. Maßanfertigung und Sonderausstattung sind auf Bestellung möglich - für weitere Informationen wenden Sie sich bitte an Ihre nächstgelegene Filiale oder informieren Sie sich in unserem Blätterkatalog unter: Fachkatalog Haustüren&amp;Nebeneingangstüren.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3769353",
-        "seo": {
-          "texts": [
-            {
-              "title": "Holz-Nebeneingangstür NET 501 Fichte Natur 98 cm x 200 cm Anschlag Links von PANTO",
-              "text": "<p class=\"justify\">Die PANTO Holz-Nebeneingangstür NET 501 Fichte Natur 98 cm x 200 cm Anschlag Links ist ein Klassiker für Haus und Hof. Diese Nebeneingangstür aus hochwertigem unbehandeltem Fichtenholz besticht durch ihre natürliche Optik. Ein schlichtes Fenster mit Ornamentglas 504 sorgt nicht nur für ausreichend Licht, sondern auch für Sichtschutz im Raum. Die Kombination aus bewährtem Design und praktischen Funktionen macht diese Türen sehr beliebt.</p><p class=\"justify\">Massivholz ist nicht nur stabil und langlebig, sondern bietet auch eine natürliche Wärmedämmung und Lärmschutz. Das Fensterelement verfügt über eine ISO-Verglasung und in Kombination mit einer dauerelastischen Dichtung ist die Tür ideal gegen Kälte und Zugluft geschützt. Da die Tür in unbeheizten Räumen zum Verziehen neigen kann, wird empfohlen, die Oberfläche von allen Seiten mit einer Holzschutz-Grundierung und einer Dickschichtlasur zu behandeln, bevor sie eingebaut wird. Passende Produkte finden Sie in Fachmärkten oder Online-Shops.</p><p class=\"justify\">Beim Einbau der Holz-Nebeneingangstür NET 501 sind die notwendigen Bohrungen für Schließzylinder und Türdrücker bereits vorhanden. Die Tür verfügt über eine 1-fach Verriegelung und drei zweidimensional verstellbare Türbänder. Eine Aluminium-Bodenwinkelschiene in den Maßen 20 mm x 30 mm wird ebenfalls mitgeliefert. Maßanfertigungen und Sonderausstattungen sind auf Bestellung möglich. Wenden Sie sich hierfür an Ihre nächstgelegene Fachfiliale.</p><p class=\"justify\">Mit einer sehr guten Bewertung von 5 Sternen und 373 Rezensionen zeigt sich die Zufriedenheit der Kunden mit der Holz-Nebeneingangstür NET 501 Fichte Natur 98 cm x 200 cm Anschlag Links von PANTO. Entdecken Sie die Vorteile dieser Nebeneingangstür und verleihen Sie Ihrem Heim eine natürliche und stilvolle Note.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6767719",
-        "seo": {
-          "texts": [
-            {
-              "title": "PANTO Kunststoff-Haustür 110 cm x 210 cm K015 Anschlag Links Weiß",
-              "text": "<p class=\"justify\">Die PANTO Kunststoff-Haustür 110 cm x 210 cm K015 Anschlag Links Weiß ist eine hochwertige und stilvolle Ergänzung für jedes Zuhause. Sie gehört zur Kategorie Haustüren und vereint Design, Funktionalität und Langlebigkeit. Ihre einzigartige Optik fügt sich perfekt in jedes Wohnambiente ein und bietet höchsten Komfort.</p><p class=\"justify\">Das Mehrkammersystem dieser Tür ist mit einer Stahlarmierung in Flügel und Blendrahmen ausgestattet, wobei die Profilstärke 70 mm beträgt. Eine dauerelastische Dichtung sorgt für zuverlässigen Schutz vor Wind und Wetter. Zudem verfügt die Haustür über 3-dimensional verstellbare Türbänder, Chinchilla weiß-Wärmeschutzverglasung, eine 24 mm isolierte Füllung, eine Alu-Bodenschwelle und eine 5-fach Verriegelung. Sowohl eine innere Bohrung für den Drücker als auch eine durchgehende Bohrung für den Schließzylinder sind vorhanden.</p><p class=\"justify\">Bitte beachten Sie, dass Drückergarnitur und Profilzylinder nicht im Lieferumfang enthalten sind. Eine Maßanfertigung und Sonderausstattung auf Bestellung ist jedoch möglich. Wenden Sie sich hierzu bitte an Ihre nächstgelegene Filiale des entsprechenden Anbieters. Weitere Informationen zu Maßanfertigungen und Sonderausstattungen finden Sie auch im speziellen Fachkatalog für Haustüren & Nebeneingangstüren.</p><p class=\"justify\">Mit der PANTO Kunststoff-Haustür 110 cm x 210 cm K015 Anschlag Links Weiß investieren Sie in eine langlebige und hochwertige Tür, die Ihnen jahrelange Nutzung und hervorragende Performance bietet. Die positiven Bewertungen und die 5 Sterne, die diese Haustür erhalten hat, sprechen für ihre Qualität und Zuverlässigkeit. Ergänzen Sie Ihr Zuhause mit dieser eleganten und funktionalen Haustür, die Sicherheit und Komfort bietet.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8318974",
-        "seo": {
-          "texts": [
-            {
-              "title": "Splendoor Thermospace Sicherheits-Haustür ThermoSpace Wien RC2 Weiß 100 x 210 cm Anschlag Rechts",
-              "text": "<p class=\"justify\">Entdecken Sie die erstklassige Qualität und Sicherheit mit der Sicherheits-Haustür ThermoSpace Wien RC2 in Weiß von Splendoor Thermospace. Diese Haustür mit den Maßen 100 x 210 cm und Anschlag Rechts vereint ein elegantes Design mit funktionalen Merkmalen. Mit einer Kategorie von Haustüren ist dieses Produkt perfekt für Menschen, die ihr Zuhause stilvoll und sicher gestalten möchten.</p><p class=\"justify\">Die Sicherheits-Haustür ThermoSpace Modell Wien RC2 hat eine Bautiefe von 70 mm und besteht aus einer thermisch getrennten Aluminiumzarge, einem wärmegedämmten Stahl-Türblatt mit 2 Dichtungsebenen und einer thermisch getrennten Bodenschwelle. Darüber hinaus sorgen die Mehrfachverriegelung mit 4 massiven Schwenkriegeln, 3 stabilen 3-dimensional verstellbaren Bändern und 3 Aushebelbolzen auf der Bandseite für zusätzliche Sicherheit.</p><p class=\"justify\">Die Oberfläche der Tür ist mit einer Dekorfolie geschützt, die für eine ansprechende Optik sorgt. Die Tür ist zudem mit einem 100 cm langen Edelstahl-Stoßgriff, Innendrücker und Rosette sowie einem Profilzylinder mit 3 Schlüsseln ausgestattet. Edelstahlapplikationen und 3-fach ISO-Verglasung mit warmer Kante in satiniertem Design verleihen der Haustür einen modernen Look.</p><p class=\"justify\">Die Tür hat eine flache Aluminium-Schwelle mit thermischer Trennung und verfügt über eine einbruchhemmende 3-fach ISO-Verglasung sowie ein Zertifikat für die Sicherheitsklasse RC2. Die komplette Tür wurde im Institut für Fenstertechnik Rosenheim geprüft und zertifiziert, was für eine hohe Qualität und Sicherheit spricht. Wenn Sie nach einer stilvollen und sicheren Lösung für Ihre Haustür suchen, ist die Splendoor Thermospace Sicherheits-Haustür ThermoSpace Wien RC2 Weiß 100 x 210 cm Anschlag Rechts die perfekte Wahl für Sie.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6768139",
-        "seo": {
-          "texts": [
-            {
-              "title": "PANTO Kunststoff-Haustür 100 cm x 200 cm K019 Anschlag Rechts Weiß",
-              "text": "<p class=\"justify\">Die PANTO Kunststoff-Haustür 100 cm x 200 cm K019 Anschlag Rechts Weiß (SKU: 6768139) ist eine hochwertige und stilvolle Option für Ihr Zuhause. Sie gehört zur Kategorie Haustüren und ist Teil der Kategorien Startseite, Bauen, Türen und Haustüren. Diese Haustür ist sowohl funktional als auch ästhetisch ansprechend und bietet zugleich Sicherheit und Schutz für Ihre Wohnräume.</p><p class=\"justify\">Die PANTO Haustür besteht aus einem hochwertigen Mehrkammersystem mit Stahlarmierung in Flügel und Blendrahmen. Die Profilstärke beträgt 70 mm, was für Stabilität und Langlebigkeit sorgt. Die Tür ist mit einer dauerelastischen Dichtung, 3-dimensional verstellbaren Türbändern (3 Stück) und einer Chinchilla weiß-Wärmeschutzverglasung ausgestattet. Diese Ausstattung trägt dazu bei, eine gute Isolierung und Energieeffizienz zu gewährleisten.</p><p class=\"justify\">Darüber hinaus verfügt die Haustür über eine 24 mm isolierte Füllung, eine Alu-Bodenschwelle und eine 5-fach Verriegelung. Eine innere Bohrung für Drücker und eine durchgehende Bohrung für Schließzylinder sind vorhanden. Drückergarnitur und Profilzylinder sind nicht im Lieferumfang enthalten. Dies ermöglicht Ihnen, die passenden Beschläge und Sicherheitselemente individuell nach Ihren Bedürfnissen auszuwählen.</p><p class=\"justify\">Für besondere Wünsche und Anforderungen bietet PANTO die Möglichkeit, die Kunststoff-Haustür 100 cm x 200 cm K019 Anschlag Rechts Weiß als Maßanfertigung und mit Sonderausstattung auf Bestellung zu erhalten. Weitere Informationen dazu finden Sie im Fachkatalog Haustüren & Nebeneingangstüren. Die PANTO Kunststoff-Haustür vereint Ästhetik, Qualität und Sicherheit und ist damit eine ausgezeichnete Wahl für Ihr Zuhause.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE für jeden Geschmack",
-    "defaultMetaDescription": "Große Auswahl zum günstigen Preis - Durch unsere Auswahl verschiedenster $KATEGORIE finden wir mit dir gemeinsam die Tür und Zubehör für dein Zuhause.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "3769239",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "PANTO Kunststoff-Nebeneingangstür K 501-88 Weiß 88 cm x 198 cm Anschlag Links",
+                            "text": "<p class=\"justify\">Die PANTO Kunststoff-Nebeneingangstür K 501-88 in Weiß mit einer Größe von 88 cm x 198 cm und Anschlag Links ist eine praktische und stilvolle Lösung für Ihr Zuhause. Sie gehört zur Kategorie Nebeneingangstüren und bietet eine einfache, funktionale und bewährte Designlösung für Haus und Hof. Die Tür verfügt über ein schlichtes Fenster mit Krizet-Ornamentglas, das dekorativ wirkt und als praktischer Sichtschutz dient.</p><p class=\"justify\">Die K 501-88 Nebeneingangstür bietet eine optimale Wärmedämmung, dank der 20 mm starken isolierten Füllung im Flügelrahmen mit Mehrkammersystem. Dieses System reduziert den Wärmestrom und ist auch im Blendrahmen vorhanden. Die zentralen Glaselemente bestehen aus ISO-Verglasung. Um einer Versteifung der Dichtungen entgegenzuwirken und somit das Eindringen von Luft und Kälte zu vermeiden, wurde die K 501-88 Tür mit dauerelastischen Dichtungen ausgestattet.</p><p class=\"justify\">Für Ihre Sicherheit sind das Türblatt und der Blendrahmen der Nebeneingangstür K 501-88 mit einer Stahlarmierung verstärkt, um erhöhte Stabilität vor Krafteinwirkungen zu gewährleisten. Beide Elemente sind durch zwei Türbänder verbunden und können bei Bedarf dreidimensional verstellt werden. Die Tür ist mit einer 1-fach Verriegelung ausgestattet und enthält eine Aluminium Bodenwinkelschiene. Die benötigten Bohrungen für Schließzylinder und Drücker sind bereits vorhanden, jedoch sind diese Elemente separat erhältlich.</p><p class=\"justify\">Auf Bestellung sind Maßanfertigungen und Sonderausstattungen möglich. Wenden Sie sich hierfür an Ihre nächstgelegene Filiale. Entdecken Sie weitere Informationen zu Maßanfertigungen und Sonderausstattungen im Fachkatalog Haustüren & Nebeneingangstüren. Mit der PANTO Kunststoff-Nebeneingangstür K 501-88 Weiß bringen Sie einen klassischen und funktionalen Stil in Ihren Eingangsbereich. Genießen Sie höchste Qualität und hervorragende Wärmedämmung mit dieser Nebeneingangstür.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1256619",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Splendoor Thermospace Elektrischer Türöffner für ThermoSpace Tür Anschlag Links",
+                            "text": "<p class=\"justify\">Der Splendoor Thermospace Elektrische Türöffner (SKU 1256619) ist eine hervorragende Lösung für bequemes und sicheres Öffnen und Schließen Ihrer ThermoSpace Haustüren mit Anschlag Links. Zu den Hauptkategorien, in denen dieser Türöffner verwendet werden kann, gehören Startseite, Bauen, Türen und Haustüren. Mit seinem hochwertigen und zuverlässigen Design bietet er eine ideale Möglichkeit, Ihre ThermoSpace Haustüren komfortabel und einfach zu bedienen.</p><p class=\"justify\">Der elektrische Türöffner ist aus robustem Stahl gefertigt, was ihm Stärke und Langlebigkeit verleiht. Dies stellt sicher, dass dieser Türöffner lange haltbar ist und all Ihren Anforderungen entspricht. Er lässt sich einfach im Türrahmen von Türen mit Anschlag-Links montieren, was die Installation zum Kinderspiel macht.</p><p class=\"justify\">Mit diesem Türöffner können Sie Ihre ThermoSpace-Tür auf Knopfdruck entriegeln, was für zusätzliche Sicherheit und Bequemlichkeit sorgt. Das Set enthält den E-Öffner mit Kabel, ein Schließblech und neue Nieten, um Ihnen eine komplette und umfassende Lösung für Ihre Haustüren zu bieten. Dank seiner hervorragenden Qualität und Benutzerfreundlichkeit hat dieser elektrische Türöffner von Splendoor Thermospace eine durchschnittliche Bewertung von 5 Sternen bei 386 Bewertungen erhalten. Somit ist dieser Türöffner eine ausgezeichnete Wahl für alle, die ihre Haustüren komfortabel und sicher gestalten möchten.</p><p class=\"justify\">Zu einem Preis von 109,99 € ist der Splendoor Thermospace Elektrischer Türöffner für ThermoSpace Tür Anschlag Links eine lohnende Investition für alle, die nach einer effektiven und bequemen Lösung für ihre Haustüren suchen. Nutzen Sie dieses innovative und zuverlässige Produkt, um Ihre Türöffnungs- und Schließanforderungen zu erfüllen und Ihr Haus sicherer und komfortabler zu gestalten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5263744",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "PANTO Kunststoff-Nebeneingangstür K 301 Weiß 98 cm x 198 cm Anschlag Rechts",
+                            "text": "<p class=\"justify\">Die PANTO Kunststoff-Nebeneingangstür K 301 in der Farbe Weiß ist eine ausgezeichnete Option für Hausbesitzer, die eine hochwertige und funktionale Tür suchen. Mit einer Größe von 98 cm x 198 cm und einem Anschlag auf der rechten Seite passt die Tür perfekt in viele verschiedene Nebeneingangsbereiche. Die Tür ist aus langlebigem Kunststoff gefertigt und bietet eine optimale Wärmedämmung, Stabilität und Sicherheit.</p><p class=\"justify\">Die K 301 Nebeneingangstür verfügt über ein schlichtes Fenster mit einem dekorativen Mandarin-Glaselement, das nicht nur eine ansprechende Optik bietet, sondern auch als praktischer Sichtschutz dient. Die 20 mm starke isolierte Füllung des Türblattes ist in einen Mehrkammerrahmen eingebettet, der zusammen mit dem Blendrahmen der Tür für beste Wärmedämmung sorgt.</p><p class=\"justify\">Um langfristige Stabilität und Sicherheit zu gewährleisten, sind sowohl das Türblatt als auch der Blendrahmen der K 301 Nebeneingangstür von PANTO verstärkt. Die Türen sind über zwei 3D-Türbänder verbunden, die bei Bedarf dreidimensional verstellt werden können. Zudem verfügt die Tür über dauerelastische Dichtungen, um Kälte und Zugluft effektiv fernzuhalten.</p><p class=\"justify\">Die PANTO Kunststoff-Nebeneingangstür K 301 ist mit einer einfachen Verriegelung ausgestattet, die für ausreichende Sicherheit sorgt. Im Lieferumfang ist eine Aluminium Bodenwinkelschiene enthalten, und die benötigten Bohrungen für den Schließzylinder und Drücker sind bereits vorhanden. Bitte beachten Sie, dass Schließzylinder und Drücker separat erhältlich sind.</p><p class=\"justify\">Mit einer Gesamtbewertung von 4 Sternen und 270 Rezensionen zeigt die PANTO Kunststoff-Nebeneingangstür K 301 sowohl Qualität als auch Kundenzufriedenheit. Die Tür ist in der Kategorie Nebeneingangstüren und als Teil des Bauen-Sortiments ein gutes Beispiel für Funktionalität und Design, das sich seit Jahrzehnten bewährt hat.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5029145",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Classen Zimmertür HDF Weiß Lackiert 73,5 cm x 198,5 cm Anschlag R",
+                            "text": "<p class=\"justify\">Die Classen Zimmertür HDF Weiß Lackiert 73,5 cm x 198,5 cm Anschlag R ist die perfekte Tür für Ihr Zuhause. Diese hochwertige Zimmertür aus dem Hause Classen überzeugt durch ihren schlichten Look und eine hervorragende Verarbeitung. Die Tür gehört zur Kategorie Zimmertüren & Zargen und ist ideal für den Wohnbereich geeignet.</p><p class=\"justify\">Die Dekoroberfläche und die Wabeneinlage sorgen für eine gute Funktionalität und ermöglichen die vielseitige Verwendung der Tür. Die schlichte weiße Optik mit glatter Oberfläche bietet einen unauffälligen Raumabschluss, der optisch zu jedem Einrichtungsstil passt. Die universelle Zimmertür macht unabhängig von Einrichtung und Wandfarbe immer einen guten Eindruck.</p><p class=\"justify\">Die Türausführung mit einer Wabeneinlage ist besonders leicht, wodurch sie sich hervorragend für den Einsatz in allen Räumen ohne besondere Beanspruchungen eignet. Die Tür ist nicht für die Verwendung in Nass- und Feuchträumen oder im Außenbereich vorgesehen. Die Zimmertür lässt sich einfach einbauen und problemlos selbst einstellen. Sie wird einhängefertig mit Schloss und Bändern geliefert.</p><p class=\"justify\">Einige technische Details der Classen Zimmertür HDF Weiß Lackiert sind: Format: 73,5 cm x 198,5 cm (B x H), Bautiefe: 40 mm, Anschlag: links und Oberfläche: HDF in Weiß. Die Drückergarnitur ist nicht im Lieferumfang enthalten. Das Produkt trägt die SKU 5029145 und die GTIN13 5900255946342.</p><p class=\"justify\">Die Classen Zimmertür HDF Weiß Lackiert 73,5 cm x 198,5 cm Anschlag R erfreut sich großer Beliebtheit und hat in zahlreichen Bewertungen bereits 4 Sterne erhalten. Sie bietet eine hervorragende Qualität und ein gutes Preis-Leistungs-Verhältnis. Entscheiden Sie sich für diese stilvolle und funktionale Zimmertür und verleihen Sie Ihrem Zuhause den perfekten Abschluss.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5061882",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "GetaDoor Zarge CPL Buche Blumig Nachb. (GL880) 86 cm x 198,5 cm x 18,5 cm Anschlag L",
+                            "text": "<p class=\"justify\">Die GetaDoor Zarge CPL Buche Blumig Nachb. (GL880) mit den Maßen 86 cm x 198,5 cm x 18,5 cm Anschlag L ist eine hochwertige und langlebige Türzarge, die sowohl optisch als auch funktional überzeugt. Sie gehört zur Kategorie Zimmertüren & Zargen und passt perfekt in jeden Wohnraum.</p><p class=\"justify\">Die CPL-Oberfläche dieser Zarge macht sie besonders robust und pflegeleicht. Sie ist auf modernsten Maschinen verarbeitet und verfügt über eine hoch verdichtete CPL-Oberfläche. Dies garantiert eine lange Lebensdauer und schützt vor den Herausforderungen des täglichen Lebens. Die Holznachbildung in Buche Blumig Nachbildung oder die unifarbene Option passen sich optimal jedem Wohnraumdesign an und werten Ihren Wohnbereich auf.</p><p class=\"justify\">Der Hersteller GetaDoor steht für Qualität und Zuverlässigkeit, und diese Zarge ist keine Ausnahme. Die Zarge hat eine SKU von 5061882 und eine GTIN13 von 4002592216612. Sie verfügt über ausgezeichnete Bewertungen und eine hohe Anzahl von Rezensionen, die ihre Qualität bestätigen.</p><p class=\"justify\">Zusammengefasst ist die GetaDoor Zarge CPL Buche Blumig Nachb. (GL880) 86 cm x 198,5 cm x 18,5 cm Anschlag L eine stilvolle und langlebige Türzarge, die in jedem Heim eine tolle Ergänzung darstellt. Eine Investition in diese Zarge ist nicht nur optisch lohnenswert, sondern auch eine langfristige Investition in die Lebensdauer und Funktionalität Ihrer Türen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3731411",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Kunststoff-Nebeneingangstür 98 cm x 198 cm K508 Weiß Anschlag Links: Stilvolle und funktionale Haustür",
+                            "text": "<p class=\"justify\">Die Kunststoff-Nebeneingangstür 98 cm x 198 cm K508 Weiß Anschlag Links von Sonstige ist eine elegante und praktische Lösung für Ihr Zuhause. Diese Haustür überzeugt durch ihre modernen und ansprechenden Design in zeitlosem Weiß und ist für Linksanschlag erhältlich. Sie passt perfekt zu verschiedenen Stilrichtungen und kann leicht in unterschiedliche Hausfassaden integriert werden.</p><p class=\"justify\">Bestehend aus einem hochwertigen Mehrkammersystem mit Stahlarmierung in Flügel und Blendrahmen, bietet die Nebeneingangstür mit einer Profilstärke von 60 mm optimale Stabilität und Langlebigkeit. Zur Ausstattung gehören eine dauerelastische Dichtung, 3-dimensional verstellbare Türbänder (2 Stück), ISO-Krizet-Wärmeschutzverglasung, eine 20 mm isolierte Füllung, eine Alu-Bodenschwelle sowie eine 5-fach Rollzapfenverriegelung. Außerdem verfügt die Tür über eine durchgehende Bohrung für Drücker und Schließzylinder. Bitte beachten Sie, dass Drückergarnitur und Profilzylinder nicht im Lieferumfang enthalten sind.</p><p class=\"justify\">Die Kategorie Haustüren beinhaltet zahlreiche beeindruckende Lösungen für anspruchsvolle Kunden, die Wert auf Qualität, Funktionalität und Ästhetik legen. Mit der Kunststoff-Nebeneingangstür 98 cm x 198 cm K508 Weiß Anschlag Links entscheiden Sie sich für eine Haustür, die nicht nur attraktiv aussieht, sondern auch höchsten Anforderungen gerecht wird. Maßanfertigung und Sonderausstattung sind auf Bestellung möglich - für weitere Informationen wenden Sie sich bitte an Ihre nächstgelegene Filiale oder informieren Sie sich in unserem Blätterkatalog unter: Fachkatalog Haustüren&amp;Nebeneingangstüren.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3769353",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Holz-Nebeneingangstür NET 501 Fichte Natur 98 cm x 200 cm Anschlag Links von PANTO",
+                            "text": "<p class=\"justify\">Die PANTO Holz-Nebeneingangstür NET 501 Fichte Natur 98 cm x 200 cm Anschlag Links ist ein Klassiker für Haus und Hof. Diese Nebeneingangstür aus hochwertigem unbehandeltem Fichtenholz besticht durch ihre natürliche Optik. Ein schlichtes Fenster mit Ornamentglas 504 sorgt nicht nur für ausreichend Licht, sondern auch für Sichtschutz im Raum. Die Kombination aus bewährtem Design und praktischen Funktionen macht diese Türen sehr beliebt.</p><p class=\"justify\">Massivholz ist nicht nur stabil und langlebig, sondern bietet auch eine natürliche Wärmedämmung und Lärmschutz. Das Fensterelement verfügt über eine ISO-Verglasung und in Kombination mit einer dauerelastischen Dichtung ist die Tür ideal gegen Kälte und Zugluft geschützt. Da die Tür in unbeheizten Räumen zum Verziehen neigen kann, wird empfohlen, die Oberfläche von allen Seiten mit einer Holzschutz-Grundierung und einer Dickschichtlasur zu behandeln, bevor sie eingebaut wird. Passende Produkte finden Sie in Fachmärkten oder Online-Shops.</p><p class=\"justify\">Beim Einbau der Holz-Nebeneingangstür NET 501 sind die notwendigen Bohrungen für Schließzylinder und Türdrücker bereits vorhanden. Die Tür verfügt über eine 1-fach Verriegelung und drei zweidimensional verstellbare Türbänder. Eine Aluminium-Bodenwinkelschiene in den Maßen 20 mm x 30 mm wird ebenfalls mitgeliefert. Maßanfertigungen und Sonderausstattungen sind auf Bestellung möglich. Wenden Sie sich hierfür an Ihre nächstgelegene Fachfiliale.</p><p class=\"justify\">Mit einer sehr guten Bewertung von 5 Sternen und 373 Rezensionen zeigt sich die Zufriedenheit der Kunden mit der Holz-Nebeneingangstür NET 501 Fichte Natur 98 cm x 200 cm Anschlag Links von PANTO. Entdecken Sie die Vorteile dieser Nebeneingangstür und verleihen Sie Ihrem Heim eine natürliche und stilvolle Note.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6767719",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "PANTO Kunststoff-Haustür 110 cm x 210 cm K015 Anschlag Links Weiß",
+                            "text": "<p class=\"justify\">Die PANTO Kunststoff-Haustür 110 cm x 210 cm K015 Anschlag Links Weiß ist eine hochwertige und stilvolle Ergänzung für jedes Zuhause. Sie gehört zur Kategorie Haustüren und vereint Design, Funktionalität und Langlebigkeit. Ihre einzigartige Optik fügt sich perfekt in jedes Wohnambiente ein und bietet höchsten Komfort.</p><p class=\"justify\">Das Mehrkammersystem dieser Tür ist mit einer Stahlarmierung in Flügel und Blendrahmen ausgestattet, wobei die Profilstärke 70 mm beträgt. Eine dauerelastische Dichtung sorgt für zuverlässigen Schutz vor Wind und Wetter. Zudem verfügt die Haustür über 3-dimensional verstellbare Türbänder, Chinchilla weiß-Wärmeschutzverglasung, eine 24 mm isolierte Füllung, eine Alu-Bodenschwelle und eine 5-fach Verriegelung. Sowohl eine innere Bohrung für den Drücker als auch eine durchgehende Bohrung für den Schließzylinder sind vorhanden.</p><p class=\"justify\">Bitte beachten Sie, dass Drückergarnitur und Profilzylinder nicht im Lieferumfang enthalten sind. Eine Maßanfertigung und Sonderausstattung auf Bestellung ist jedoch möglich. Wenden Sie sich hierzu bitte an Ihre nächstgelegene Filiale des entsprechenden Anbieters. Weitere Informationen zu Maßanfertigungen und Sonderausstattungen finden Sie auch im speziellen Fachkatalog für Haustüren & Nebeneingangstüren.</p><p class=\"justify\">Mit der PANTO Kunststoff-Haustür 110 cm x 210 cm K015 Anschlag Links Weiß investieren Sie in eine langlebige und hochwertige Tür, die Ihnen jahrelange Nutzung und hervorragende Performance bietet. Die positiven Bewertungen und die 5 Sterne, die diese Haustür erhalten hat, sprechen für ihre Qualität und Zuverlässigkeit. Ergänzen Sie Ihr Zuhause mit dieser eleganten und funktionalen Haustür, die Sicherheit und Komfort bietet.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8318974",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Splendoor Thermospace Sicherheits-Haustür ThermoSpace Wien RC2 Weiß 100 x 210 cm Anschlag Rechts",
+                            "text": "<p class=\"justify\">Entdecken Sie die erstklassige Qualität und Sicherheit mit der Sicherheits-Haustür ThermoSpace Wien RC2 in Weiß von Splendoor Thermospace. Diese Haustür mit den Maßen 100 x 210 cm und Anschlag Rechts vereint ein elegantes Design mit funktionalen Merkmalen. Mit einer Kategorie von Haustüren ist dieses Produkt perfekt für Menschen, die ihr Zuhause stilvoll und sicher gestalten möchten.</p><p class=\"justify\">Die Sicherheits-Haustür ThermoSpace Modell Wien RC2 hat eine Bautiefe von 70 mm und besteht aus einer thermisch getrennten Aluminiumzarge, einem wärmegedämmten Stahl-Türblatt mit 2 Dichtungsebenen und einer thermisch getrennten Bodenschwelle. Darüber hinaus sorgen die Mehrfachverriegelung mit 4 massiven Schwenkriegeln, 3 stabilen 3-dimensional verstellbaren Bändern und 3 Aushebelbolzen auf der Bandseite für zusätzliche Sicherheit.</p><p class=\"justify\">Die Oberfläche der Tür ist mit einer Dekorfolie geschützt, die für eine ansprechende Optik sorgt. Die Tür ist zudem mit einem 100 cm langen Edelstahl-Stoßgriff, Innendrücker und Rosette sowie einem Profilzylinder mit 3 Schlüsseln ausgestattet. Edelstahlapplikationen und 3-fach ISO-Verglasung mit warmer Kante in satiniertem Design verleihen der Haustür einen modernen Look.</p><p class=\"justify\">Die Tür hat eine flache Aluminium-Schwelle mit thermischer Trennung und verfügt über eine einbruchhemmende 3-fach ISO-Verglasung sowie ein Zertifikat für die Sicherheitsklasse RC2. Die komplette Tür wurde im Institut für Fenstertechnik Rosenheim geprüft und zertifiziert, was für eine hohe Qualität und Sicherheit spricht. Wenn Sie nach einer stilvollen und sicheren Lösung für Ihre Haustür suchen, ist die Splendoor Thermospace Sicherheits-Haustür ThermoSpace Wien RC2 Weiß 100 x 210 cm Anschlag Rechts die perfekte Wahl für Sie.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6768139",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "PANTO Kunststoff-Haustür 100 cm x 200 cm K019 Anschlag Rechts Weiß",
+                            "text": "<p class=\"justify\">Die PANTO Kunststoff-Haustür 100 cm x 200 cm K019 Anschlag Rechts Weiß (SKU: 6768139) ist eine hochwertige und stilvolle Option für Ihr Zuhause. Sie gehört zur Kategorie Haustüren und ist Teil der Kategorien Startseite, Bauen, Türen und Haustüren. Diese Haustür ist sowohl funktional als auch ästhetisch ansprechend und bietet zugleich Sicherheit und Schutz für Ihre Wohnräume.</p><p class=\"justify\">Die PANTO Haustür besteht aus einem hochwertigen Mehrkammersystem mit Stahlarmierung in Flügel und Blendrahmen. Die Profilstärke beträgt 70 mm, was für Stabilität und Langlebigkeit sorgt. Die Tür ist mit einer dauerelastischen Dichtung, 3-dimensional verstellbaren Türbändern (3 Stück) und einer Chinchilla weiß-Wärmeschutzverglasung ausgestattet. Diese Ausstattung trägt dazu bei, eine gute Isolierung und Energieeffizienz zu gewährleisten.</p><p class=\"justify\">Darüber hinaus verfügt die Haustür über eine 24 mm isolierte Füllung, eine Alu-Bodenschwelle und eine 5-fach Verriegelung. Eine innere Bohrung für Drücker und eine durchgehende Bohrung für Schließzylinder sind vorhanden. Drückergarnitur und Profilzylinder sind nicht im Lieferumfang enthalten. Dies ermöglicht Ihnen, die passenden Beschläge und Sicherheitselemente individuell nach Ihren Bedürfnissen auszuwählen.</p><p class=\"justify\">Für besondere Wünsche und Anforderungen bietet PANTO die Möglichkeit, die Kunststoff-Haustür 100 cm x 200 cm K019 Anschlag Rechts Weiß als Maßanfertigung und mit Sonderausstattung auf Bestellung zu erhalten. Weitere Informationen dazu finden Sie im Fachkatalog Haustüren & Nebeneingangstüren. Die PANTO Kunststoff-Haustür vereint Ästhetik, Qualität und Sicherheit und ist damit eine ausgezeichnete Wahl für Ihr Zuhause.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE für jeden Geschmack",
+        "defaultMetaDescription": "Große Auswahl zum günstigen Preis - Durch unsere Auswahl verschiedenster $KATEGORIE finden wir mit dir gemeinsam die Tür und Zubehör für dein Zuhause.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Türen Shop [günstig bestellen]",
+        "defaultMetaDescription": "Hochwertige Türen von $HERSTELLER - Finde bei uns die beste Auswahl an Innen- und Außentüren unserer Top Marken für dein Zuhause.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Türen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Türen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Türen Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Türen Shop [günstig bestellen]",
-    "defaultMetaDescription": "Hochwertige Türen von $HERSTELLER - Finde bei uns die beste Auswahl an Innen- und Außentüren unserer Top Marken für dein Zuhause.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Türen",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Türen Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Türen Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
